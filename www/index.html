@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html ng-app="app" ng-strict-di>
+
+  <head>
+    <!-- injector:css -->
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="/bower_components/bootstrap-additions/dist/bootstrap-additions.css">
+    <!-- endinjector -->
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Demo</title>
+  </head>
+
+  <body>    
+    <!-- <div ng-include="'navbar/navbar.html'"></div> -->
+    <div class="container" ng-view></div>
+
+    <!-- injector:js -->
+    <script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="/bower_components/angular/angular.js"></script>
+    <script src="/bower_components/angular-route/angular-route.js"></script>
+    <script src="/bower_components/angular-strap/dist/angular-strap.js"></script>
+    <script src="/bower_components/angular-strap/dist/angular-strap.tpl.js"></script>
+    <script src="/bower_components/firebase/firebase.js"></script>
+    <script src="/bower_components/angularfire/dist/angularfire.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="/www/app/app.module.js"></script>
+    <script src="/www/app/texter.module.js"></script>
+    <script src="/www/app/app.config.js"></script>
+    <script src="/www/app/texter.config.js"></script>
+    <script src="/www/app/texter.controller.js"></script>
+    <script src="/www/app/students.factory.js"></script>
+    <!-- endinjector -->
+  </body>
+
+</html>

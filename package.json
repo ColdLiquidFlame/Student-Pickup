@@ -1,0 +1,24 @@
+{
+  "name": "student-pickup",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "Chris White",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-injector": "^0.6.0",
+    "jshint": "^2.8.0",
+    "time-grunt": "^1.2.1"
+  }
+}

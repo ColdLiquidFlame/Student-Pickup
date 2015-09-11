@@ -1,0 +1,4838 @@
+{
+  "30001": {
+    "StudentNumber":30001,
+    "LastName":"Bigham",
+    "FirstName":"Titus",
+    "Grade":"PK3"
+  },
+  "30002": {
+    "StudentNumber":30002,
+    "LastName":"Cid",
+    "FirstName":"Denise",
+    "Grade":"PK3"
+  },
+  "30003": {
+    "StudentNumber":30003,
+    "LastName":"Esquivel-Rodriguez",
+    "FirstName":"Tristan",
+    "Grade":"PK3"
+  },
+  "30004": {
+    "StudentNumber":30004,
+    "LastName":"Gomez",
+    "FirstName":"Gustavo",
+    "Grade":"PK3"
+  },
+  "30005": {
+    "StudentNumber":30005,
+    "LastName":"Gonzalez",
+    "FirstName":"Jeniselle",
+    "Grade":"PK3"
+  },
+  "30006": {
+    "StudentNumber":30006,
+    "LastName":"Jacobo",
+    "FirstName":"Emmanuel",
+    "Grade":"PK3"
+  },
+  "30007": {
+    "StudentNumber":30007,
+    "LastName":"Lara-Ruiz",
+    "FirstName":"Genesis",
+    "Grade":"PK3"
+  },
+  "30008": {
+    "StudentNumber":30008,
+    "LastName":"Lopez",
+    "FirstName":"Evencio",
+    "Grade":"PK3"
+  },
+  "30009": {
+    "StudentNumber":30009,
+    "LastName":"Martinez",
+    "FirstName":"Aiden",
+    "Grade":"PK3"
+  },
+  "30010": {
+    "StudentNumber":30010,
+    "LastName":"Matias",
+    "FirstName":"Rafael",
+    "Grade":"PK3"
+  },
+  "30011": {
+    "StudentNumber":30011,
+    "LastName":"Moreno",
+    "FirstName":"Ariyanna",
+    "Grade":"PK3"
+  },
+  "30012": {
+    "StudentNumber":30012,
+    "LastName":"Palomo",
+    "FirstName":"Valerie",
+    "Grade":"PK3"
+  },
+  "30013": {
+    "StudentNumber":30013,
+    "LastName":"Quintanilla",
+    "FirstName":"Yoselyn",
+    "Grade":"PK3"
+  },
+  "30014": {
+    "StudentNumber":30014,
+    "LastName":"Ramirez",
+    "FirstName":"Camilla",
+    "Grade":"PK3"
+  },
+  "30015": {
+    "StudentNumber":30015,
+    "LastName":"Resendez",
+    "FirstName":"Isaac",
+    "Grade":"PK3"
+  },
+  "30016": {
+    "StudentNumber":30016,
+    "LastName":"Rodriguez",
+    "FirstName":"Genesses",
+    "Grade":"PK3"
+  },
+  "30017": {
+    "StudentNumber":30017,
+    "LastName":"Romero",
+    "FirstName":"Stephanie",
+    "Grade":"PK3"
+  },
+  "30018": {
+    "StudentNumber":30018,
+    "LastName":"Serna",
+    "FirstName":"Lazarus",
+    "Grade":"PK3"
+  },
+  "30019": {
+    "StudentNumber":30019,
+    "LastName":"Torres",
+    "FirstName":"Juan",
+    "Grade":"PK3"
+  },
+  "30020": {
+    "StudentNumber":30020,
+    "LastName":"Trujillo",
+    "FirstName":"Camila",
+    "Grade":"PK3"
+  },
+  "30021": {
+    "StudentNumber":30021,
+    "LastName":"Vazquez",
+    "FirstName":"Jaime",
+    "Grade":"PK3"
+  },
+  "30022": {
+    "StudentNumber":30022,
+    "LastName":"Wallace",
+    "FirstName":"Kensley",
+    "Grade":"PK3"
+  },
+  "30023": {
+    "StudentNumber":30023,
+    "LastName":"Arellanes",
+    "FirstName":"Jaselyn",
+    "Grade":"PK3"
+  },
+  "30024": {
+    "StudentNumber":30024,
+    "LastName":"Ayala",
+    "FirstName":"Jasmine",
+    "Grade":"PK3"
+  },
+  "30025": {
+    "StudentNumber":30025,
+    "LastName":"Chavez",
+    "FirstName":"Jesus",
+    "Grade":"PK3"
+  },
+  "30026": {
+    "StudentNumber":30026,
+    "LastName":"Escobedo",
+    "FirstName":"Jenesis",
+    "Grade":"PK3"
+  },
+  "30027": {
+    "StudentNumber":30027,
+    "LastName":"Escorcia",
+    "FirstName":"Leonardo",
+    "Grade":"PK3"
+  },
+  "30028": {
+    "StudentNumber":30028,
+    "LastName":"Estrada",
+    "FirstName":"Lorraine",
+    "Grade":"PK3"
+  },
+  "30029": {
+    "StudentNumber":30029,
+    "LastName":"Garcia",
+    "FirstName":"Adam",
+    "Grade":"PK3"
+  },
+  "30030": {
+    "StudentNumber":30030,
+    "LastName":"Gomez",
+    "FirstName":"Ariana",
+    "Grade":"PK3"
+  },
+  "30031": {
+    "StudentNumber":30031,
+    "LastName":"Gonzalez",
+    "FirstName":"Kenji",
+    "Grade":"PK3"
+  },
+  "30032": {
+    "StudentNumber":30032,
+    "LastName":"Herrera",
+    "FirstName":"Yoselinn",
+    "Grade":"PK3"
+  },
+  "30033": {
+    "StudentNumber":30033,
+    "LastName":"Larios",
+    "FirstName":"Jayden",
+    "Grade":"PK3"
+  },
+  "30034": {
+    "StudentNumber":30034,
+    "LastName":"Martinez",
+    "FirstName":"Jc",
+    "Grade":"PK3"
+  },
+  "30035": {
+    "StudentNumber":30035,
+    "LastName":"Martinez",
+    "FirstName":"Kimberly",
+    "Grade":"PK3"
+  },
+  "30036": {
+    "StudentNumber":30036,
+    "LastName":"Mendoza",
+    "FirstName":"Mateo",
+    "Grade":"PK3"
+  },
+  "30037": {
+    "StudentNumber":30037,
+    "LastName":"Mora",
+    "FirstName":"Aimee",
+    "Grade":"PK3"
+  },
+  "30038": {
+    "StudentNumber":30038,
+    "LastName":"Oviedo",
+    "FirstName":"Santiago",
+    "Grade":"PK3"
+  },
+  "30039": {
+    "StudentNumber":30039,
+    "LastName":"Pineda",
+    "FirstName":"Servando",
+    "Grade":"PK3"
+  },
+  "30040": {
+    "StudentNumber":30040,
+    "LastName":"Porras",
+    "FirstName":"Elena",
+    "Grade":"PK3"
+  },
+  "30041": {
+    "StudentNumber":30041,
+    "LastName":"Reyes",
+    "FirstName":"Johan",
+    "Grade":"PK3"
+  },
+  "30042": {
+    "StudentNumber":30042,
+    "LastName":"Rosales",
+    "FirstName":"Yaneissy",
+    "Grade":"PK3"
+  },
+  "30043": {
+    "StudentNumber":30043,
+    "LastName":"Sanchez",
+    "FirstName":"Abigail",
+    "Grade":"PK3"
+  },
+  "30044": {
+    "StudentNumber":30044,
+    "LastName":"Yanez",
+    "FirstName":"Angel",
+    "Grade":"PK3"
+  },
+  "30045": {
+    "StudentNumber":30045,
+    "LastName":"Cruz-Aguirre",
+    "FirstName":"Gael",
+    "Grade":"PK3"
+  },
+  "30046": {
+    "StudentNumber":30046,
+    "LastName":"Cardenas",
+    "FirstName":"Amada",
+    "Grade":"PK3"
+  },
+  "30047": {
+    "StudentNumber":30047,
+    "LastName":"Deleon",
+    "FirstName":"Sergio",
+    "Grade":"PK3"
+  },
+  "30048": {
+    "StudentNumber":30048,
+    "LastName":"Galvan",
+    "FirstName":"Brianna",
+    "Grade":"PK3"
+  },
+  "30049": {
+    "StudentNumber":30049,
+    "LastName":"Gonzalez",
+    "FirstName":"Angeleah",
+    "Grade":"PK3"
+  },
+  "30050": {
+    "StudentNumber":30050,
+    "LastName":"Hipolito",
+    "FirstName":"Leah",
+    "Grade":"PK3"
+  },
+  "30051": {
+    "StudentNumber":30051,
+    "LastName":"King",
+    "FirstName":"Chase",
+    "Grade":"PK3"
+  },
+  "30052": {
+    "StudentNumber":30052,
+    "LastName":"Lujan",
+    "FirstName":"Fernando",
+    "Grade":"PK3"
+  },
+  "30053": {
+    "StudentNumber":30053,
+    "LastName":"Mata",
+    "FirstName":"Jacob",
+    "Grade":"PK3"
+  },
+  "30054": {
+    "StudentNumber":30054,
+    "LastName":"Mendoza",
+    "FirstName":"Adrian",
+    "Grade":"PK3"
+  },
+  "30055": {
+    "StudentNumber":30055,
+    "LastName":"Mitchell",
+    "FirstName":"Darshaun",
+    "Grade":"PK3"
+  },
+  "30056": {
+    "StudentNumber":30056,
+    "LastName":"Oviedo",
+    "FirstName":"Scarlett",
+    "Grade":"PK3"
+  },
+  "30057": {
+    "StudentNumber":30057,
+    "LastName":"Perez",
+    "FirstName":"Natalie",
+    "Grade":"PK3"
+  },
+  "30058": {
+    "StudentNumber":30058,
+    "LastName":"Ramirez",
+    "FirstName":"Elias",
+    "Grade":"PK3"
+  },
+  "30059": {
+    "StudentNumber":30059,
+    "LastName":"Ramos",
+    "FirstName":"Nevaeh",
+    "Grade":"PK3"
+  },
+  "30060": {
+    "StudentNumber":30060,
+    "LastName":"Reyna",
+    "FirstName":"Osmarie",
+    "Grade":"PK3"
+  },
+  "30061": {
+    "StudentNumber":30061,
+    "LastName":"Saucedo",
+    "FirstName":"Jose",
+    "Grade":"PK3"
+  },
+  "30062": {
+    "StudentNumber":30062,
+    "LastName":"Sierra",
+    "FirstName":"Sophia",
+    "Grade":"PK3"
+  },
+  "30063": {
+    "StudentNumber":30063,
+    "LastName":"Trevino",
+    "FirstName":"Jaime",
+    "Grade":"PK3"
+  },
+  "30064": {
+    "StudentNumber":30064,
+    "LastName":"Valentina",
+    "FirstName":"Amy",
+    "Grade":"PK3"
+  },
+  "30065": {
+    "StudentNumber":30065,
+    "LastName":"Villalon",
+    "FirstName":"Krysten",
+    "Grade":"PK3"
+  },
+  "30066": {
+    "StudentNumber":30066,
+    "LastName":"Winn",
+    "FirstName":"Jaylon",
+    "Grade":"PK3"
+  },
+  "29001": {
+    "StudentNumber":29001,
+    "LastName":"Arellano ",
+    "FirstName":"Marco",
+    "Grade":"PK4"
+  },
+  "29002": {
+    "StudentNumber":29002,
+    "LastName":"Barrera",
+    "FirstName":"Ezequiel",
+    "Grade":"PK4"
+  },
+  "29003": {
+    "StudentNumber":29003,
+    "LastName":"Delgado",
+    "FirstName":"Edwin",
+    "Grade":"PK4"
+  },
+  "29004": {
+    "StudentNumber":29004,
+    "LastName":"Flores",
+    "FirstName":"Ashley",
+    "Grade":"PK4"
+  },
+  "29005": {
+    "StudentNumber":29005,
+    "LastName":"Flores",
+    "FirstName":"Felix",
+    "Grade":"PK4"
+  },
+  "29006": {
+    "StudentNumber":29006,
+    "LastName":"Garcia",
+    "FirstName":"Genesis",
+    "Grade":"PK4"
+  },
+  "29007": {
+    "StudentNumber":29007,
+    "LastName":"Gutierrez",
+    "FirstName":"Aldo",
+    "Grade":"PK4"
+  },
+  "29008": {
+    "StudentNumber":29008,
+    "LastName":"Jayasi",
+    "FirstName":"Sebastian",
+    "Grade":"PK4"
+  },
+  "29009": {
+    "StudentNumber":29009,
+    "LastName":"Leon",
+    "FirstName":"Jose",
+    "Grade":"PK4"
+  },
+  "29010": {
+    "StudentNumber":29010,
+    "LastName":"Luviano",
+    "FirstName":"Juan Jr.",
+    "Grade":"PK4"
+  },
+  "29011": {
+    "StudentNumber":29011,
+    "LastName":"Martinez",
+    "FirstName":"Jazmin",
+    "Grade":"PK4"
+  },
+  "29012": {
+    "StudentNumber":29012,
+    "LastName":"Martinez",
+    "FirstName":"Sofia",
+    "Grade":"PK4"
+  },
+  "29013": {
+    "StudentNumber":29013,
+    "LastName":"Meza",
+    "FirstName":"Axel",
+    "Grade":"PK4"
+  },
+  "29014": {
+    "StudentNumber":29014,
+    "LastName":"Pedraza",
+    "FirstName":"Amberlyn",
+    "Grade":"PK4"
+  },
+  "29015": {
+    "StudentNumber":29015,
+    "LastName":"Pineda",
+    "FirstName":"Gisselle",
+    "Grade":"PK4"
+  },
+  "29016": {
+    "StudentNumber":29016,
+    "LastName":"Requena",
+    "FirstName":"Eileen",
+    "Grade":"PK4"
+  },
+  "29017": {
+    "StudentNumber":29017,
+    "LastName":"Reyna",
+    "FirstName":"Omar",
+    "Grade":"PK4"
+  },
+  "29018": {
+    "StudentNumber":29018,
+    "LastName":"Rico",
+    "FirstName":"Emmanuel",
+    "Grade":"PK4"
+  },
+  "29019": {
+    "StudentNumber":29019,
+    "LastName":"Segovia",
+    "FirstName":"Raul",
+    "Grade":"PK4"
+  },
+  "29020": {
+    "StudentNumber":29020,
+    "LastName":"Soriano",
+    "FirstName":"Salma",
+    "Grade":"PK4"
+  },
+  "29021": {
+    "StudentNumber":29021,
+    "LastName":"Suarez",
+    "FirstName":"David",
+    "Grade":"PK4"
+  },
+  "29022": {
+    "StudentNumber":29022,
+    "LastName":"Zavala",
+    "FirstName":"Kenya",
+    "Grade":"PK4"
+  },
+  "29023": {
+    "StudentNumber":29023,
+    "LastName":"Benavides",
+    "FirstName":"William",
+    "Grade":"PK4"
+  },
+  "29024": {
+    "StudentNumber":29024,
+    "LastName":"Calderon",
+    "FirstName":"Avani",
+    "Grade":"PK4"
+  },
+  "29025": {
+    "StudentNumber":29025,
+    "LastName":"Cardona",
+    "FirstName":"Alexis",
+    "Grade":"PK4"
+  },
+  "29026": {
+    "StudentNumber":29026,
+    "LastName":"Cazares",
+    "FirstName":"Alejandro",
+    "Grade":"PK4"
+  },
+  "29027": {
+    "StudentNumber":29027,
+    "LastName":"Franco",
+    "FirstName":"Jocelyn",
+    "Grade":"PK4"
+  },
+  "29028": {
+    "StudentNumber":29028,
+    "LastName":"Gonzalez",
+    "FirstName":"Alithia",
+    "Grade":"PK4"
+  },
+  "29029": {
+    "StudentNumber":29029,
+    "LastName":"Granados",
+    "FirstName":"Jaylah",
+    "Grade":"PK4"
+  },
+  "29030": {
+    "StudentNumber":29030,
+    "LastName":"Hernandez",
+    "FirstName":"Esteban",
+    "Grade":"PK4"
+  },
+  "29031": {
+    "StudentNumber":29031,
+    "LastName":"Hernandez",
+    "FirstName":"Santiago",
+    "Grade":"PK4"
+  },
+  "29032": {
+    "StudentNumber":29032,
+    "LastName":"Martinez",
+    "FirstName":"Jordan",
+    "Grade":"PK4"
+  },
+  "29033": {
+    "StudentNumber":29033,
+    "LastName":"Mendoza",
+    "FirstName":"Alexander",
+    "Grade":"PK4"
+  },
+  "29034": {
+    "StudentNumber":29034,
+    "LastName":"Mendoza",
+    "FirstName":"Jessica",
+    "Grade":"PK4"
+  },
+  "29035": {
+    "StudentNumber":29035,
+    "LastName":"Padron",
+    "FirstName":"Fidel",
+    "Grade":"PK4"
+  },
+  "29036": {
+    "StudentNumber":29036,
+    "LastName":"Pena",
+    "FirstName":"Anthony",
+    "Grade":"PK4"
+  },
+  "29037": {
+    "StudentNumber":29037,
+    "LastName":"Pena IV",
+    "FirstName":"Gilberto",
+    "Grade":"PK4"
+  },
+  "29038": {
+    "StudentNumber":29038,
+    "LastName":"Ramirez",
+    "FirstName":"Dillan",
+    "Grade":"PK4"
+  },
+  "29039": {
+    "StudentNumber":29039,
+    "LastName":"Ramos",
+    "FirstName":"Jennifer",
+    "Grade":"PK4"
+  },
+  "29040": {
+    "StudentNumber":29040,
+    "LastName":"Rincon",
+    "FirstName":"Mia",
+    "Grade":"PK4"
+  },
+  "29041": {
+    "StudentNumber":29041,
+    "LastName":"Rivera",
+    "FirstName":"Julissa",
+    "Grade":"PK4"
+  },
+  "29042": {
+    "StudentNumber":29042,
+    "LastName":"Tamez",
+    "FirstName":"Kaylee",
+    "Grade":"PK4"
+  },
+  "29043": {
+    "StudentNumber":29043,
+    "LastName":"Vicencio ",
+    "FirstName":"Evan ",
+    "Grade":"PK4"
+  },
+  "29044": {
+    "StudentNumber":29044,
+    "LastName":"Waggoner",
+    "FirstName":"Santiago",
+    "Grade":"PK4"
+  },
+  "29045": {
+    "StudentNumber":29045,
+    "LastName":"Tavera",
+    "FirstName":"D'Alexandro",
+    "Grade":"PK4"
+  },
+  "29046": {
+    "StudentNumber":29046,
+    "LastName":"Arredondo ",
+    "FirstName":"Victoria",
+    "Grade":"PK4"
+  },
+  "29047": {
+    "StudentNumber":29047,
+    "LastName":"Bolufemi",
+    "FirstName":"Michelle",
+    "Grade":"PK4"
+  },
+  "29048": {
+    "StudentNumber":29048,
+    "LastName":"Dees",
+    "FirstName":"Sophia",
+    "Grade":"PK4"
+  },
+  "29049": {
+    "StudentNumber":29049,
+    "LastName":"Douglas",
+    "FirstName":"Armani",
+    "Grade":"PK4"
+  },
+  "29050": {
+    "StudentNumber":29050,
+    "LastName":"Guevara",
+    "FirstName":"Naruny",
+    "Grade":"PK4"
+  },
+  "29051": {
+    "StudentNumber":29051,
+    "LastName":"Herrera",
+    "FirstName":"Katherine",
+    "Grade":"PK4"
+  },
+  "29052": {
+    "StudentNumber":29052,
+    "LastName":"Herrera",
+    "FirstName":"Jacob",
+    "Grade":"PK4"
+  },
+  "29053": {
+    "StudentNumber":29053,
+    "LastName":"Izquierdo",
+    "FirstName":"Isabella",
+    "Grade":"PK4"
+  },
+  "29054": {
+    "StudentNumber":29054,
+    "LastName":"Jimenez",
+    "FirstName":"Katelyn",
+    "Grade":"PK4"
+  },
+  "29055": {
+    "StudentNumber":29055,
+    "LastName":"Lara",
+    "FirstName":"Francisco",
+    "Grade":"PK4"
+  },
+  "29056": {
+    "StudentNumber":29056,
+    "LastName":"Lopez",
+    "FirstName":"Ismael",
+    "Grade":"PK4"
+  },
+  "29057": {
+    "StudentNumber":29057,
+    "LastName":"Malik",
+    "FirstName":"Leila",
+    "Grade":"PK4"
+  },
+  "29058": {
+    "StudentNumber":29058,
+    "LastName":"Mitchell",
+    "FirstName":"DeJuan",
+    "Grade":"PK4"
+  },
+  "29059": {
+    "StudentNumber":29059,
+    "LastName":"Ortiz",
+    "FirstName":"Vadhir",
+    "Grade":"PK4"
+  },
+  "29060": {
+    "StudentNumber":29060,
+    "LastName":"Ortiz",
+    "FirstName":"Carlos",
+    "Grade":"PK4"
+  },
+  "29061": {
+    "StudentNumber":29061,
+    "LastName":"Perez",
+    "FirstName":"Sandra",
+    "Grade":"PK4"
+  },
+  "29062": {
+    "StudentNumber":29062,
+    "LastName":"Porras",
+    "FirstName":"Oscar",
+    "Grade":"PK4"
+  },
+  "29063": {
+    "StudentNumber":29063,
+    "LastName":"Ramirez",
+    "FirstName":"Jeancarlo",
+    "Grade":"PK4"
+  },
+  "29064": {
+    "StudentNumber":29064,
+    "LastName":"Reyes",
+    "FirstName":"Abigail",
+    "Grade":"PK4"
+  },
+  "29065": {
+    "StudentNumber":29065,
+    "LastName":"Ruiz",
+    "FirstName":"Alejandro",
+    "Grade":"PK4"
+  },
+  "29066": {
+    "StudentNumber":29066,
+    "LastName":"Thomas",
+    "FirstName":"Austin",
+    "Grade":"PK4"
+  },
+  "29067": {
+    "StudentNumber":29067,
+    "LastName":"Washington",
+    "FirstName":"Emmanuel",
+    "Grade":"PK4"
+  },
+  "29068": {
+    "StudentNumber":29068,
+    "LastName":"Aly",
+    "FirstName":"Serenity",
+    "Grade":"PK4"
+  },
+  "29069": {
+    "StudentNumber":29069,
+    "LastName":"Barriga",
+    "FirstName":"Jarod",
+    "Grade":"PK4"
+  },
+  "29070": {
+    "StudentNumber":29070,
+    "LastName":"Clayton",
+    "FirstName":"Evyn",
+    "Grade":"PK4"
+  },
+  "29071": {
+    "StudentNumber":29071,
+    "LastName":"Coleman",
+    "FirstName":"Landen",
+    "Grade":"PK4"
+  },
+  "29072": {
+    "StudentNumber":29072,
+    "LastName":"Garcia",
+    "FirstName":"Alma",
+    "Grade":"PK4"
+  },
+  "29073": {
+    "StudentNumber":29073,
+    "LastName":"Garza",
+    "FirstName":"Elias",
+    "Grade":"PK4"
+  },
+  "29074": {
+    "StudentNumber":29074,
+    "LastName":"Gonzalez",
+    "FirstName":"Abel",
+    "Grade":"PK4"
+  },
+  "29075": {
+    "StudentNumber":29075,
+    "LastName":"Gonzalez",
+    "FirstName":"Tiago",
+    "Grade":"PK4"
+  },
+  "29076": {
+    "StudentNumber":29076,
+    "LastName":"Jefferson",
+    "FirstName":"Kennedy",
+    "Grade":"PK4"
+  },
+  "29077": {
+    "StudentNumber":29077,
+    "LastName":"Kearney",
+    "FirstName":"Kaleb",
+    "Grade":"PK4"
+  },
+  "29078": {
+    "StudentNumber":29078,
+    "LastName":"Lockett-Price",
+    "FirstName":"Jaiy'den",
+    "Grade":"PK4"
+  },
+  "29079": {
+    "StudentNumber":29079,
+    "LastName":"Martinez",
+    "FirstName":"Natalia",
+    "Grade":"PK4"
+  },
+  "29080": {
+    "StudentNumber":29080,
+    "LastName":"Navarro",
+    "FirstName":"Aiyanna",
+    "Grade":"PK4"
+  },
+  "29081": {
+    "StudentNumber":29081,
+    "LastName":"Olvera",
+    "FirstName":"Eduardo",
+    "Grade":"PK4"
+  },
+  "29082": {
+    "StudentNumber":29082,
+    "LastName":"Quintero",
+    "FirstName":"Mia",
+    "Grade":"PK4"
+  },
+  "29083": {
+    "StudentNumber":29083,
+    "LastName":"Ramos",
+    "FirstName":"Sebastian",
+    "Grade":"PK4"
+  },
+  "29084": {
+    "StudentNumber":29084,
+    "LastName":"Ridley",
+    "FirstName":"Jayliana",
+    "Grade":"PK4"
+  },
+  "29085": {
+    "StudentNumber":29085,
+    "LastName":"Rodriguez",
+    "FirstName":"Tristan",
+    "Grade":"PK4"
+  },
+  "29086": {
+    "StudentNumber":29086,
+    "LastName":"Rodriguez ",
+    "FirstName":"Brandon",
+    "Grade":"PK4"
+  },
+  "29087": {
+    "StudentNumber":29087,
+    "LastName":"Sanchez",
+    "FirstName":"Jefferson",
+    "Grade":"PK4"
+  },
+  "29088": {
+    "StudentNumber":29088,
+    "LastName":"Santos",
+    "FirstName":"Gabriella",
+    "Grade":"PK4"
+  },
+  "29089": {
+    "StudentNumber":29089,
+    "LastName":"Tabora",
+    "FirstName":"Luna ",
+    "Grade":"PK4"
+  },
+  "29090": {
+    "StudentNumber":29090,
+    "LastName":"Lerma",
+    "FirstName":"Camillo",
+    "Grade":"PK4"
+  },
+  "29091": {
+    "StudentNumber":29091,
+    "LastName":"Velazquez",
+    "FirstName":"Allison",
+    "Grade":"PK4"
+  },
+  "29092": {
+    "StudentNumber":29092,
+    "LastName":"Garza",
+    "FirstName":"Isabella",
+    "Grade":"PK4"
+  },
+  "29093": {
+    "StudentNumber":29093,
+    "LastName":"Duque",
+    "FirstName":"Genesis",
+    "Grade":"PK4"
+  },
+  "29094": {
+    "StudentNumber":29094,
+    "LastName":"Flores",
+    "FirstName":"Itzel",
+    "Grade":"PK4"
+  },
+  "29095": {
+    "StudentNumber":29095,
+    "LastName":"Luis",
+    "FirstName":"Daniel",
+    "Grade":"PK4"
+  },
+  "29096": {
+    "StudentNumber":29096,
+    "LastName":"Zuniga",
+    "FirstName":"Jayden",
+    "Grade":"PK4"
+  },
+  "29097": {
+    "StudentNumber":29097,
+    "LastName":"Cardona",
+    "FirstName":"Aidan",
+    "Grade":"PK4"
+  },
+  "29098": {
+    "StudentNumber":29098,
+    "LastName":"Hercules",
+    "FirstName":"Christian",
+    "Grade":"PK4"
+  },
+  "29099": {
+    "StudentNumber":29099,
+    "LastName":"Bustamante",
+    "FirstName":"Jaylen",
+    "Grade":"PK4"
+  },
+  "29100": {
+    "StudentNumber":29100,
+    "LastName":"Monroy",
+    "FirstName":"Madelyn",
+    "Grade":"PK4"
+  },
+  "29101": {
+    "StudentNumber":29101,
+    "LastName":"Morales",
+    "FirstName":"Monserrat",
+    "Grade":"PK4"
+  },
+  "29102": {
+    "StudentNumber":29102,
+    "LastName":"Rosales",
+    "FirstName":"Ally",
+    "Grade":"PK4"
+  },
+  "29103": {
+    "StudentNumber":29103,
+    "LastName":"Gutierrez",
+    "FirstName":"Alyssa",
+    "Grade":"PK4"
+  },
+  "29104": {
+    "StudentNumber":29104,
+    "LastName":"Aguilar",
+    "FirstName":"Emilio",
+    "Grade":"PK4"
+  },
+  "29105": {
+    "StudentNumber":29105,
+    "LastName":"Garcia",
+    "FirstName":"Christopher",
+    "Grade":"PK4"
+  },
+  "29106": {
+    "StudentNumber":29106,
+    "LastName":"Gutierrez",
+    "FirstName":"Jonathan",
+    "Grade":"PK4"
+  },
+  "29107": {
+    "StudentNumber":29107,
+    "LastName":"Garcia",
+    "FirstName":"Kevin",
+    "Grade":"PK4"
+  },
+  "29108": {
+    "StudentNumber":29108,
+    "LastName":"Ponce",
+    "FirstName":"Vianey",
+    "Grade":"PK4"
+  },
+  "29109": {
+    "StudentNumber":29109,
+    "LastName":"Hadley",
+    "FirstName":"Ronald",
+    "Grade":"PK4"
+  },
+  "29110": {
+    "StudentNumber":29110,
+    "LastName":"Vasquez",
+    "FirstName":"Jose",
+    "Grade":"PK4"
+  },
+  "29111": {
+    "StudentNumber":29111,
+    "LastName":"Chavez",
+    "FirstName":"Luis",
+    "Grade":"PK4"
+  },
+  "29112": {
+    "StudentNumber":29112,
+    "LastName":"Medina",
+    "FirstName":"Isabel",
+    "Grade":"PK4"
+  },
+  "28001": {
+    "StudentNumber":28001,
+    "LastName":"Armstrong",
+    "FirstName":"Riley",
+    "Grade":"K"
+  },
+  "28002": {
+    "StudentNumber":28002,
+    "LastName":"Bernal",
+    "FirstName":"Ignacio",
+    "Grade":"K"
+  },
+  "28003": {
+    "StudentNumber":28003,
+    "LastName":"Calderon",
+    "FirstName":"Edizon",
+    "Grade":"K"
+  },
+  "28004": {
+    "StudentNumber":28004,
+    "LastName":"Compton",
+    "FirstName":"Artravea",
+    "Grade":"K"
+  },
+  "28005": {
+    "StudentNumber":28005,
+    "LastName":"Correa",
+    "FirstName":"Fernando",
+    "Grade":"K"
+  },
+  "28006": {
+    "StudentNumber":28006,
+    "LastName":"Espinosa",
+    "FirstName":"Santiago",
+    "Grade":"K"
+  },
+  "28007": {
+    "StudentNumber":28007,
+    "LastName":"Flores",
+    "FirstName":"Juan",
+    "Grade":"K"
+  },
+  "28008": {
+    "StudentNumber":28008,
+    "LastName":"Gonzalez",
+    "FirstName":"Aaron",
+    "Grade":"K"
+  },
+  "28009": {
+    "StudentNumber":28009,
+    "LastName":"Guillen",
+    "FirstName":"Leah",
+    "Grade":"K"
+  },
+  "28010": {
+    "StudentNumber":28010,
+    "LastName":"Hurtado",
+    "FirstName":"Sergio",
+    "Grade":"K"
+  },
+  "28011": {
+    "StudentNumber":28011,
+    "LastName":"Jurado",
+    "FirstName":"Joe",
+    "Grade":"K"
+  },
+  "28012": {
+    "StudentNumber":28012,
+    "LastName":"Lerma",
+    "FirstName":"Joe",
+    "Grade":"K"
+  },
+  "28013": {
+    "StudentNumber":28013,
+    "LastName":"Martinez",
+    "FirstName":"Aaliyah",
+    "Grade":"K"
+  },
+  "28014": {
+    "StudentNumber":28014,
+    "LastName":"Medina",
+    "FirstName":"Leonel",
+    "Grade":"K"
+  },
+  "28015": {
+    "StudentNumber":28015,
+    "LastName":"Oviedo",
+    "FirstName":"Juan",
+    "Grade":"K"
+  },
+  "28016": {
+    "StudentNumber":28016,
+    "LastName":"Pacheco",
+    "FirstName":"Humberto",
+    "Grade":"K"
+  },
+  "28017": {
+    "StudentNumber":28017,
+    "LastName":"Raya",
+    "FirstName":"Nevaeh",
+    "Grade":"K"
+  },
+  "28018": {
+    "StudentNumber":28018,
+    "LastName":"Rincon Delrosario",
+    "FirstName":"Avel",
+    "Grade":"K"
+  },
+  "28019": {
+    "StudentNumber":28019,
+    "LastName":"Santos",
+    "FirstName":"Xavier",
+    "Grade":"K"
+  },
+  "28020": {
+    "StudentNumber":28020,
+    "LastName":"Sauceda",
+    "FirstName":"Antonio",
+    "Grade":"K"
+  },
+  "28021": {
+    "StudentNumber":28021,
+    "LastName":"Torres",
+    "FirstName":"Ivan",
+    "Grade":"K"
+  },
+  "28022": {
+    "StudentNumber":28022,
+    "LastName":"Torres",
+    "FirstName":"Andres",
+    "Grade":"K"
+  },
+  "28023": {
+    "StudentNumber":28023,
+    "LastName":"Trujillo",
+    "FirstName":"Isaac",
+    "Grade":"K"
+  },
+  "28024": {
+    "StudentNumber":28024,
+    "LastName":"Vasquez",
+    "FirstName":"Allegra",
+    "Grade":"K"
+  },
+  "28025": {
+    "StudentNumber":28025,
+    "LastName":"Vasquez Diaz",
+    "FirstName":"Jacqueline",
+    "Grade":"K"
+  },
+  "28026": {
+    "StudentNumber":28026,
+    "LastName":"Vega",
+    "FirstName":"Bryan",
+    "Grade":"K"
+  },
+  "28027": {
+    "StudentNumber":28027,
+    "LastName":"Vela",
+    "FirstName":"Celine",
+    "Grade":"K"
+  },
+  "28028": {
+    "StudentNumber":28028,
+    "LastName":"Ware",
+    "FirstName":"Drake",
+    "Grade":"K"
+  },
+  "28029": {
+    "StudentNumber":28029,
+    "LastName":"Alanis",
+    "FirstName":"Violet",
+    "Grade":"K"
+  },
+  "28030": {
+    "StudentNumber":28030,
+    "LastName":"Alfred",
+    "FirstName":"Ciaran",
+    "Grade":"K"
+  },
+  "28031": {
+    "StudentNumber":28031,
+    "LastName":"Alvarez",
+    "FirstName":"Adriel",
+    "Grade":"K"
+  },
+  "28032": {
+    "StudentNumber":28032,
+    "LastName":"Camacho",
+    "FirstName":"Gianna",
+    "Grade":"K"
+  },
+  "28033": {
+    "StudentNumber":28033,
+    "LastName":"Cruz Loredo",
+    "FirstName":"Dilan",
+    "Grade":"K"
+  },
+  "28034": {
+    "StudentNumber":28034,
+    "LastName":"Enard",
+    "FirstName":"Kaleb",
+    "Grade":"K"
+  },
+  "28035": {
+    "StudentNumber":28035,
+    "LastName":"Gallegos",
+    "FirstName":"Ayary",
+    "Grade":"K"
+  },
+  "28036": {
+    "StudentNumber":28036,
+    "LastName":"Gonzalez",
+    "FirstName":"Arely",
+    "Grade":"K"
+  },
+  "28037": {
+    "StudentNumber":28037,
+    "LastName":"Maybit",
+    "FirstName":"Kaylin",
+    "Grade":"K"
+  },
+  "28038": {
+    "StudentNumber":28038,
+    "LastName":"Medina",
+    "FirstName":"Leonardo",
+    "Grade":"K"
+  },
+  "28039": {
+    "StudentNumber":28039,
+    "LastName":"Mendoza",
+    "FirstName":"Isabella",
+    "Grade":"K"
+  },
+  "28040": {
+    "StudentNumber":28040,
+    "LastName":"Mendoza-Perez",
+    "FirstName":"Juliette",
+    "Grade":"K"
+  },
+  "28041": {
+    "StudentNumber":28041,
+    "LastName":"Moore",
+    "FirstName":"Ja'Roy",
+    "Grade":"K"
+  },
+  "28042": {
+    "StudentNumber":28042,
+    "LastName":"Morales",
+    "FirstName":"Leah",
+    "Grade":"K"
+  },
+  "28043": {
+    "StudentNumber":28043,
+    "LastName":"Paige",
+    "FirstName":"La'Keith",
+    "Grade":"K"
+  },
+  "28044": {
+    "StudentNumber":28044,
+    "LastName":"Quistian",
+    "FirstName":"Gisel",
+    "Grade":"K"
+  },
+  "28045": {
+    "StudentNumber":28045,
+    "LastName":"Ramos",
+    "FirstName":"Jordan",
+    "Grade":"K"
+  },
+  "28046": {
+    "StudentNumber":28046,
+    "LastName":"Rendon",
+    "FirstName":"Mia",
+    "Grade":"K"
+  },
+  "28047": {
+    "StudentNumber":28047,
+    "LastName":"Rodriguez",
+    "FirstName":"Madeline",
+    "Grade":"K"
+  },
+  "28048": {
+    "StudentNumber":28048,
+    "LastName":"Sanchez",
+    "FirstName":"Allison",
+    "Grade":"K"
+  },
+  "28049": {
+    "StudentNumber":28049,
+    "LastName":"Spivey",
+    "FirstName":"Antaniya",
+    "Grade":"K"
+  },
+  "28050": {
+    "StudentNumber":28050,
+    "LastName":"Tamez",
+    "FirstName":"Isreal",
+    "Grade":"K"
+  },
+  "28051": {
+    "StudentNumber":28051,
+    "LastName":"Vazquez",
+    "FirstName":"Edward",
+    "Grade":"K"
+  },
+  "28052": {
+    "StudentNumber":28052,
+    "LastName":"Wells",
+    "FirstName":"Khamani",
+    "Grade":"K"
+  },
+  "28053": {
+    "StudentNumber":28053,
+    "LastName":"Zamarron",
+    "FirstName":"Makayla",
+    "Grade":"K"
+  },
+  "28054": {
+    "StudentNumber":28054,
+    "LastName":"Zuniga",
+    "FirstName":"Juliet",
+    "Grade":"K"
+  },
+  "28055": {
+    "StudentNumber":28055,
+    "LastName":"Alejandre",
+    "FirstName":"Joel",
+    "Grade":"K"
+  },
+  "28056": {
+    "StudentNumber":28056,
+    "LastName":"Alvarenga",
+    "FirstName":"Mareshah",
+    "Grade":"K"
+  },
+  "28057": {
+    "StudentNumber":28057,
+    "LastName":"Aranda-Lara",
+    "FirstName":"Yaidelex",
+    "Grade":"K"
+  },
+  "28058": {
+    "StudentNumber":28058,
+    "LastName":"Bowman",
+    "FirstName":"Kaleb",
+    "Grade":"K"
+  },
+  "28059": {
+    "StudentNumber":28059,
+    "LastName":"Cardenas",
+    "FirstName":"Angel",
+    "Grade":"K"
+  },
+  "28060": {
+    "StudentNumber":28060,
+    "LastName":"Crowder",
+    "FirstName":"Trinity",
+    "Grade":"K"
+  },
+  "28061": {
+    "StudentNumber":28061,
+    "LastName":"Cruz-Navarro",
+    "FirstName":"Diego",
+    "Grade":"K"
+  },
+  "28062": {
+    "StudentNumber":28062,
+    "LastName":"Gee",
+    "FirstName":"Jodi",
+    "Grade":"K"
+  },
+  "28063": {
+    "StudentNumber":28063,
+    "LastName":"Gonzalez",
+    "FirstName":"Gerardo",
+    "Grade":"K"
+  },
+  "28064": {
+    "StudentNumber":28064,
+    "LastName":"Jaramillo",
+    "FirstName":"Matthew",
+    "Grade":"K"
+  },
+  "28065": {
+    "StudentNumber":28065,
+    "LastName":"Joseph",
+    "FirstName":"Delta",
+    "Grade":"K"
+  },
+  "28066": {
+    "StudentNumber":28066,
+    "LastName":"Lopez",
+    "FirstName":"Joseangel",
+    "Grade":"K"
+  },
+  "28067": {
+    "StudentNumber":28067,
+    "LastName":"Luis",
+    "FirstName":"Sebastian",
+    "Grade":"K"
+  },
+  "28068": {
+    "StudentNumber":28068,
+    "LastName":"Martinez",
+    "FirstName":"David",
+    "Grade":"K"
+  },
+  "28069": {
+    "StudentNumber":28069,
+    "LastName":"Maybit",
+    "FirstName":"Kelsey",
+    "Grade":"K"
+  },
+  "28070": {
+    "StudentNumber":28070,
+    "LastName":"Morones",
+    "FirstName":"Jenaya",
+    "Grade":"K"
+  },
+  "28071": {
+    "StudentNumber":28071,
+    "LastName":"Pardo",
+    "FirstName":"Rosa",
+    "Grade":"K"
+  },
+  "28072": {
+    "StudentNumber":28072,
+    "LastName":"Parra",
+    "FirstName":"Raul",
+    "Grade":"K"
+  },
+  "28073": {
+    "StudentNumber":28073,
+    "LastName":"Ponce",
+    "FirstName":"Anthony",
+    "Grade":"K"
+  },
+  "28074": {
+    "StudentNumber":28074,
+    "LastName":"Quiroz",
+    "FirstName":"Erick",
+    "Grade":"K"
+  },
+  "28075": {
+    "StudentNumber":28075,
+    "LastName":"Ramirez",
+    "FirstName":"Jayden",
+    "Grade":"K"
+  },
+  "28076": {
+    "StudentNumber":28076,
+    "LastName":"Saavedra",
+    "FirstName":"Dannahi",
+    "Grade":"K"
+  },
+  "28077": {
+    "StudentNumber":28077,
+    "LastName":"Sanchez",
+    "FirstName":"Pablo ",
+    "Grade":"K"
+  },
+  "28078": {
+    "StudentNumber":28078,
+    "LastName":"Stephens-Carr",
+    "FirstName":"Marley",
+    "Grade":"K"
+  },
+  "28079": {
+    "StudentNumber":28079,
+    "LastName":"Tristan",
+    "FirstName":"Fernando",
+    "Grade":"K"
+  },
+  "28080": {
+    "StudentNumber":28080,
+    "LastName":"Vargas",
+    "FirstName":"Ailynn",
+    "Grade":"K"
+  },
+  "28081": {
+    "StudentNumber":28081,
+    "LastName":"Acuna",
+    "FirstName":"Erik",
+    "Grade":"K"
+  },
+  "28082": {
+    "StudentNumber":28082,
+    "LastName":"Beltran",
+    "FirstName":"Isabella",
+    "Grade":"K"
+  },
+  "28083": {
+    "StudentNumber":28083,
+    "LastName":"Cavazos",
+    "FirstName":"Gloria",
+    "Grade":"K"
+  },
+  "28084": {
+    "StudentNumber":28084,
+    "LastName":"Cruz Aguirre",
+    "FirstName":"Mario",
+    "Grade":"K"
+  },
+  "28085": {
+    "StudentNumber":28085,
+    "LastName":"Cuellar",
+    "FirstName":"Alejandro",
+    "Grade":"K"
+  },
+  "28086": {
+    "StudentNumber":28086,
+    "LastName":"Diaz",
+    "FirstName":"Nelson",
+    "Grade":"K"
+  },
+  "28087": {
+    "StudentNumber":28087,
+    "LastName":"Galaviz",
+    "FirstName":"Anelly",
+    "Grade":"K"
+  },
+  "28088": {
+    "StudentNumber":28088,
+    "LastName":"Gamez",
+    "FirstName":"Julian",
+    "Grade":"K"
+  },
+  "28089": {
+    "StudentNumber":28089,
+    "LastName":"Gonzalez",
+    "FirstName":"Leslie",
+    "Grade":"K"
+  },
+  "28090": {
+    "StudentNumber":28090,
+    "LastName":"Gonzalez Lopez",
+    "FirstName":"Juan",
+    "Grade":"K"
+  },
+  "28091": {
+    "StudentNumber":28091,
+    "LastName":"Hernandez",
+    "FirstName":"Alexa",
+    "Grade":"K"
+  },
+  "28092": {
+    "StudentNumber":28092,
+    "LastName":"Hurtado",
+    "FirstName":"Esmeralda",
+    "Grade":"K"
+  },
+  "28093": {
+    "StudentNumber":28093,
+    "LastName":"Llamas",
+    "FirstName":"Andrea",
+    "Grade":"K"
+  },
+  "28094": {
+    "StudentNumber":28094,
+    "LastName":"Lopez",
+    "FirstName":"Camila",
+    "Grade":"K"
+  },
+  "28095": {
+    "StudentNumber":28095,
+    "LastName":"Lua",
+    "FirstName":"Claudia",
+    "Grade":"K"
+  },
+  "28096": {
+    "StudentNumber":28096,
+    "LastName":"Manriquez",
+    "FirstName":"Cristabel",
+    "Grade":"K"
+  },
+  "28097": {
+    "StudentNumber":28097,
+    "LastName":"Martinez",
+    "FirstName":"Jose",
+    "Grade":"K"
+  },
+  "28098": {
+    "StudentNumber":28098,
+    "LastName":"Martinez",
+    "FirstName":"Jalitza",
+    "Grade":"K"
+  },
+  "28099": {
+    "StudentNumber":28099,
+    "LastName":"Moyeda",
+    "FirstName":"Angelica",
+    "Grade":"K"
+  },
+  "28100": {
+    "StudentNumber":28100,
+    "LastName":"Olvera",
+    "FirstName":"Nathalia",
+    "Grade":"K"
+  },
+  "28101": {
+    "StudentNumber":28101,
+    "LastName":"Pinales",
+    "FirstName":"Kristopher",
+    "Grade":"K"
+  },
+  "28102": {
+    "StudentNumber":28102,
+    "LastName":"Rodriguez",
+    "FirstName":"Jonathan",
+    "Grade":"K"
+  },
+  "28103": {
+    "StudentNumber":28103,
+    "LastName":"Rodriguez",
+    "FirstName":"Emiliano",
+    "Grade":"K"
+  },
+  "28104": {
+    "StudentNumber":28104,
+    "LastName":"Tum Sanchez",
+    "FirstName":"Eduardo",
+    "Grade":"K"
+  },
+  "28105": {
+    "StudentNumber":28105,
+    "LastName":"Vergara",
+    "FirstName":"Karina",
+    "Grade":"K"
+  },
+  "28106": {
+    "StudentNumber":28106,
+    "LastName":"Villarreal",
+    "FirstName":"Ovidio",
+    "Grade":"K"
+  },
+  "28107": {
+    "StudentNumber":28107,
+    "LastName":"Arellano",
+    "FirstName":"Christian",
+    "Grade":"K"
+  },
+  "28108": {
+    "StudentNumber":28108,
+    "LastName":"Armendariz",
+    "FirstName":"Armando",
+    "Grade":"K"
+  },
+  "28109": {
+    "StudentNumber":28109,
+    "LastName":"Aucancela",
+    "FirstName":"Andrea",
+    "Grade":"K"
+  },
+  "28110": {
+    "StudentNumber":28110,
+    "LastName":"Briseno",
+    "FirstName":"Miguel",
+    "Grade":"K"
+  },
+  "28111": {
+    "StudentNumber":28111,
+    "LastName":"Carreto",
+    "FirstName":"Leandro",
+    "Grade":"K"
+  },
+  "28112": {
+    "StudentNumber":28112,
+    "LastName":"Carrion",
+    "FirstName":"Kaleb",
+    "Grade":"K"
+  },
+  "28113": {
+    "StudentNumber":28113,
+    "LastName":"Darden",
+    "FirstName":"Kingston",
+    "Grade":"K"
+  },
+  "28114": {
+    "StudentNumber":28114,
+    "LastName":"Fletcher",
+    "FirstName":"Dennesha",
+    "Grade":"K"
+  },
+  "28115": {
+    "StudentNumber":28115,
+    "LastName":"Flores",
+    "FirstName":"Cesar",
+    "Grade":"K"
+  },
+  "28116": {
+    "StudentNumber":28116,
+    "LastName":"Fraire",
+    "FirstName":"Nariah",
+    "Grade":"K"
+  },
+  "28117": {
+    "StudentNumber":28117,
+    "LastName":"Garcia",
+    "FirstName":"Ernesto",
+    "Grade":"K"
+  },
+  "28118": {
+    "StudentNumber":28118,
+    "LastName":"Guerrero",
+    "FirstName":"Galilea",
+    "Grade":"K"
+  },
+  "28119": {
+    "StudentNumber":28119,
+    "LastName":"Hill",
+    "FirstName":"Socrates",
+    "Grade":"K"
+  },
+  "28120": {
+    "StudentNumber":28120,
+    "LastName":"Hurtado",
+    "FirstName":"Christian",
+    "Grade":"K"
+  },
+  "28121": {
+    "StudentNumber":28121,
+    "LastName":"Jacobo",
+    "FirstName":"Chris",
+    "Grade":"K"
+  },
+  "28122": {
+    "StudentNumber":28122,
+    "LastName":"Martinez",
+    "FirstName":"Justin",
+    "Grade":"K"
+  },
+  "28123": {
+    "StudentNumber":28123,
+    "LastName":"Moore",
+    "FirstName":"Eboni",
+    "Grade":"K"
+  },
+  "28124": {
+    "StudentNumber":28124,
+    "LastName":"Nava",
+    "FirstName":"Victoria",
+    "Grade":"K"
+  },
+  "28125": {
+    "StudentNumber":28125,
+    "LastName":"Navarro",
+    "FirstName":"Gabriel",
+    "Grade":"K"
+  },
+  "28126": {
+    "StudentNumber":28126,
+    "LastName":"Renteria",
+    "FirstName":"Natalia",
+    "Grade":"K"
+  },
+  "28127": {
+    "StudentNumber":28127,
+    "LastName":"Requena",
+    "FirstName":"Emmily",
+    "Grade":"K"
+  },
+  "28128": {
+    "StudentNumber":28128,
+    "LastName":"Reyes Rivera",
+    "FirstName":"Valeria",
+    "Grade":"K"
+  },
+  "28129": {
+    "StudentNumber":28129,
+    "LastName":"Rivas Garcia",
+    "FirstName":"Christopher",
+    "Grade":"K"
+  },
+  "28130": {
+    "StudentNumber":28130,
+    "LastName":"Sanchez",
+    "FirstName":"Melany",
+    "Grade":"K"
+  },
+  "28131": {
+    "StudentNumber":28131,
+    "LastName":"Trevizo",
+    "FirstName":"Hector",
+    "Grade":"K"
+  },
+  "28132": {
+    "StudentNumber":28132,
+    "LastName":"Velazquez",
+    "FirstName":"Julissa",
+    "Grade":"K"
+  },
+  "27001": {
+    "StudentNumber":27001,
+    "LastName":"Almaguer",
+    "FirstName":"Alissa",
+    "Grade":"1st"
+  },
+  "27002": {
+    "StudentNumber":27002,
+    "LastName":"Barejas-Lua",
+    "FirstName":"Sofia",
+    "Grade":"1st"
+  },
+  "27003": {
+    "StudentNumber":27003,
+    "LastName":"Bowman",
+    "FirstName":"Mark",
+    "Grade":"1st"
+  },
+  "27004": {
+    "StudentNumber":27004,
+    "LastName":"Castro",
+    "FirstName":"Lesly",
+    "Grade":"1st"
+  },
+  "27005": {
+    "StudentNumber":27005,
+    "LastName":"Chavez Elisea",
+    "FirstName":"Zabdiel",
+    "Grade":"1st"
+  },
+  "27006": {
+    "StudentNumber":27006,
+    "LastName":"De La Cruz",
+    "FirstName":"Joselle",
+    "Grade":"1st"
+  },
+  "27007": {
+    "StudentNumber":27007,
+    "LastName":"De La Rosa",
+    "FirstName":"Eduardo",
+    "Grade":"1st"
+  },
+  "27008": {
+    "StudentNumber":27008,
+    "LastName":"Escobedo",
+    "FirstName":"Amy",
+    "Grade":"1st"
+  },
+  "27009": {
+    "StudentNumber":27009,
+    "LastName":"Espinoza",
+    "FirstName":"Alice",
+    "Grade":"1st"
+  },
+  "27010": {
+    "StudentNumber":27010,
+    "LastName":"Guevara Cacho",
+    "FirstName":"Tisie",
+    "Grade":"1st"
+  },
+  "27011": {
+    "StudentNumber":27011,
+    "LastName":"Guevara ",
+    "FirstName":"David",
+    "Grade":"1st"
+  },
+  "27012": {
+    "StudentNumber":27012,
+    "LastName":"Hernandez",
+    "FirstName":"Kaithleen",
+    "Grade":"1st"
+  },
+  "27013": {
+    "StudentNumber":27013,
+    "LastName":"Hernandez",
+    "FirstName":"Kayla",
+    "Grade":"1st"
+  },
+  "27014": {
+    "StudentNumber":27014,
+    "LastName":"Hurd",
+    "FirstName":"Trumaine",
+    "Grade":"1st"
+  },
+  "27015": {
+    "StudentNumber":27015,
+    "LastName":"Jasso",
+    "FirstName":"Daniel",
+    "Grade":"1st"
+  },
+  "27016": {
+    "StudentNumber":27016,
+    "LastName":"Lujan",
+    "FirstName":"Angel",
+    "Grade":"1st"
+  },
+  "27017": {
+    "StudentNumber":27017,
+    "LastName":"Marin",
+    "FirstName":"Fernando",
+    "Grade":"1st"
+  },
+  "27018": {
+    "StudentNumber":27018,
+    "LastName":"Miranda",
+    "FirstName":"Mauricio",
+    "Grade":"1st"
+  },
+  "27019": {
+    "StudentNumber":27019,
+    "LastName":"Mireles",
+    "FirstName":"Daniel",
+    "Grade":"1st"
+  },
+  "27020": {
+    "StudentNumber":27020,
+    "LastName":"Muniz",
+    "FirstName":"Anthony",
+    "Grade":"1st"
+  },
+  "27021": {
+    "StudentNumber":27021,
+    "LastName":"Olvera",
+    "FirstName":"Jimena",
+    "Grade":"1st"
+  },
+  "27022": {
+    "StudentNumber":27022,
+    "LastName":"Paguaga",
+    "FirstName":"Elizabeth",
+    "Grade":"1st"
+  },
+  "27023": {
+    "StudentNumber":27023,
+    "LastName":"Ponce",
+    "FirstName":"Mariana",
+    "Grade":"1st"
+  },
+  "27024": {
+    "StudentNumber":27024,
+    "LastName":"Ramirez",
+    "FirstName":"Yahir",
+    "Grade":"1st"
+  },
+  "27025": {
+    "StudentNumber":27025,
+    "LastName":"Silva",
+    "FirstName":"Talan",
+    "Grade":"1st"
+  },
+  "27026": {
+    "StudentNumber":27026,
+    "LastName":"Torres-Rodriguez",
+    "FirstName":"Jennifer",
+    "Grade":"1st"
+  },
+  "27027": {
+    "StudentNumber":27027,
+    "LastName":"Uribe",
+    "FirstName":"Priscilla",
+    "Grade":"1st"
+  },
+  "27028": {
+    "StudentNumber":27028,
+    "LastName":"Williams",
+    "FirstName":"Jacob",
+    "Grade":"1st"
+  },
+  "27029": {
+    "StudentNumber":27029,
+    "LastName":"Barrera",
+    "FirstName":"Carlos",
+    "Grade":"1st"
+  },
+  "27030": {
+    "StudentNumber":27030,
+    "LastName":"Benavides",
+    "FirstName":"Giselle",
+    "Grade":"1st"
+  },
+  "27031": {
+    "StudentNumber":27031,
+    "LastName":"Bernal",
+    "FirstName":"Danielle",
+    "Grade":"1st"
+  },
+  "27032": {
+    "StudentNumber":27032,
+    "LastName":"Castaneda",
+    "FirstName":"Jessica",
+    "Grade":"1st"
+  },
+  "27033": {
+    "StudentNumber":27033,
+    "LastName":"Covarrubias",
+    "FirstName":"Roberto",
+    "Grade":"1st"
+  },
+  "27034": {
+    "StudentNumber":27034,
+    "LastName":"Gaines",
+    "FirstName":"Taylor",
+    "Grade":"1st"
+  },
+  "27035": {
+    "StudentNumber":27035,
+    "LastName":"Garcia",
+    "FirstName":"Brian",
+    "Grade":"1st"
+  },
+  "27036": {
+    "StudentNumber":27036,
+    "LastName":"Garcia",
+    "FirstName":"Teresa",
+    "Grade":"1st"
+  },
+  "27037": {
+    "StudentNumber":27037,
+    "LastName":"Hadley",
+    "FirstName":"Malia",
+    "Grade":"1st"
+  },
+  "27038": {
+    "StudentNumber":27038,
+    "LastName":"Harmon",
+    "FirstName":"Janell",
+    "Grade":"1st"
+  },
+  "27039": {
+    "StudentNumber":27039,
+    "LastName":"Jones",
+    "FirstName":"Richard",
+    "Grade":"1st"
+  },
+  "27040": {
+    "StudentNumber":27040,
+    "LastName":"Lawrence",
+    "FirstName":"Jermey",
+    "Grade":"1st"
+  },
+  "27041": {
+    "StudentNumber":27041,
+    "LastName":"Luna",
+    "FirstName":"Jayleen",
+    "Grade":"1st"
+  },
+  "27042": {
+    "StudentNumber":27042,
+    "LastName":"Luviano",
+    "FirstName":"Cristina",
+    "Grade":"1st"
+  },
+  "27043": {
+    "StudentNumber":27043,
+    "LastName":"Medina",
+    "FirstName":"Aaiven",
+    "Grade":"1st"
+  },
+  "27044": {
+    "StudentNumber":27044,
+    "LastName":"Mendoza",
+    "FirstName":"Lianna",
+    "Grade":"1st"
+  },
+  "27045": {
+    "StudentNumber":27045,
+    "LastName":"Ortiz Rodriguez",
+    "FirstName":"Fatima",
+    "Grade":"1st"
+  },
+  "27046": {
+    "StudentNumber":27046,
+    "LastName":"Ramirez",
+    "FirstName":"Juan",
+    "Grade":"1st"
+  },
+  "27047": {
+    "StudentNumber":27047,
+    "LastName":"Regalado",
+    "FirstName":"Gabriella",
+    "Grade":"1st"
+  },
+  "27048": {
+    "StudentNumber":27048,
+    "LastName":"Rodriguez",
+    "FirstName":"Asahel",
+    "Grade":"1st"
+  },
+  "27049": {
+    "StudentNumber":27049,
+    "LastName":"Samano",
+    "FirstName":"Kaitlin",
+    "Grade":"1st"
+  },
+  "27050": {
+    "StudentNumber":27050,
+    "LastName":"Saravia",
+    "FirstName":"Ethan",
+    "Grade":"1st"
+  },
+  "27051": {
+    "StudentNumber":27051,
+    "LastName":"Silva",
+    "FirstName":"Cyan",
+    "Grade":"1st"
+  },
+  "27052": {
+    "StudentNumber":27052,
+    "LastName":"Thomas",
+    "FirstName":"Erick",
+    "Grade":"1st"
+  },
+  "27053": {
+    "StudentNumber":27053,
+    "LastName":"Velasquez",
+    "FirstName":"Ander",
+    "Grade":"1st"
+  },
+  "27054": {
+    "StudentNumber":27054,
+    "LastName":"Walker",
+    "FirstName":"J'niaya",
+    "Grade":"1st"
+  },
+  "27055": {
+    "StudentNumber":27055,
+    "LastName":"Barocio",
+    "FirstName":"Vincent",
+    "Grade":"1st"
+  },
+  "27056": {
+    "StudentNumber":27056,
+    "LastName":"Castillo",
+    "FirstName":"Arely",
+    "Grade":"1st"
+  },
+  "27057": {
+    "StudentNumber":27057,
+    "LastName":"Cavazos",
+    "FirstName":"Adrian",
+    "Grade":"1st"
+  },
+  "27058": {
+    "StudentNumber":27058,
+    "LastName":"Cisneros",
+    "FirstName":"Oscar",
+    "Grade":"1st"
+  },
+  "27059": {
+    "StudentNumber":27059,
+    "LastName":"Cordolino",
+    "FirstName":"Ava",
+    "Grade":"1st"
+  },
+  "27060": {
+    "StudentNumber":27060,
+    "LastName":"Cruz",
+    "FirstName":"Cynthia",
+    "Grade":"1st"
+  },
+  "27061": {
+    "StudentNumber":27061,
+    "LastName":"Galvan",
+    "FirstName":"Ashley",
+    "Grade":"1st"
+  },
+  "27062": {
+    "StudentNumber":27062,
+    "LastName":"Gamez",
+    "FirstName":"Melanie",
+    "Grade":"1st"
+  },
+  "27063": {
+    "StudentNumber":27063,
+    "LastName":"Gamez",
+    "FirstName":"Ximena",
+    "Grade":"1st"
+  },
+  "27064": {
+    "StudentNumber":27064,
+    "LastName":"Garcia",
+    "FirstName":"Christian",
+    "Grade":"1st"
+  },
+  "27065": {
+    "StudentNumber":27065,
+    "LastName":"Leon",
+    "FirstName":"Rosario",
+    "Grade":"1st"
+  },
+  "27066": {
+    "StudentNumber":27066,
+    "LastName":"Lerma",
+    "FirstName":"Julio",
+    "Grade":"1st"
+  },
+  "27067": {
+    "StudentNumber":27067,
+    "LastName":"Licea",
+    "FirstName":"Arturo",
+    "Grade":"1st"
+  },
+  "27068": {
+    "StudentNumber":27068,
+    "LastName":"Lopez",
+    "FirstName":"Barbara",
+    "Grade":"1st"
+  },
+  "27069": {
+    "StudentNumber":27069,
+    "LastName":"Lopez",
+    "FirstName":"Noel",
+    "Grade":"1st"
+  },
+  "27070": {
+    "StudentNumber":27070,
+    "LastName":"Martinez",
+    "FirstName":"Jonathan",
+    "Grade":"1st"
+  },
+  "27071": {
+    "StudentNumber":27071,
+    "LastName":"Medina-Acosta",
+    "FirstName":"Gerardo",
+    "Grade":"1st"
+  },
+  "27072": {
+    "StudentNumber":27072,
+    "LastName":"Morales",
+    "FirstName":"Denise",
+    "Grade":"1st"
+  },
+  "27073": {
+    "StudentNumber":27073,
+    "LastName":"Paguaga",
+    "FirstName":"Sarai",
+    "Grade":"1st"
+  },
+  "27074": {
+    "StudentNumber":27074,
+    "LastName":"Peralta",
+    "FirstName":"Laura",
+    "Grade":"1st"
+  },
+  "27075": {
+    "StudentNumber":27075,
+    "LastName":"Ramirez",
+    "FirstName":"Alitza",
+    "Grade":"1st"
+  },
+  "27076": {
+    "StudentNumber":27076,
+    "LastName":"Ramirez",
+    "FirstName":"Jessica",
+    "Grade":"1st"
+  },
+  "27077": {
+    "StudentNumber":27077,
+    "LastName":"Requena",
+    "FirstName":"Pedro",
+    "Grade":"1st"
+  },
+  "27078": {
+    "StudentNumber":27078,
+    "LastName":"Rexhapi",
+    "FirstName":"Natali",
+    "Grade":"1st"
+  },
+  "27079": {
+    "StudentNumber":27079,
+    "LastName":"Villazana",
+    "FirstName":"Adrian",
+    "Grade":"1st"
+  },
+  "27080": {
+    "StudentNumber":27080,
+    "LastName":"Zamarron",
+    "FirstName":"Naythan",
+    "Grade":"1st"
+  },
+  "27081": {
+    "StudentNumber":27081,
+    "LastName":"Aly",
+    "FirstName":"Ilana",
+    "Grade":"1st"
+  },
+  "27082": {
+    "StudentNumber":27082,
+    "LastName":"Benavides",
+    "FirstName":"Estephanie",
+    "Grade":"1st"
+  },
+  "27083": {
+    "StudentNumber":27083,
+    "LastName":"Blanco",
+    "FirstName":"Darwin",
+    "Grade":"1st"
+  },
+  "27084": {
+    "StudentNumber":27084,
+    "LastName":"Calderon",
+    "FirstName":"Gizelle",
+    "Grade":"1st"
+  },
+  "27085": {
+    "StudentNumber":27085,
+    "LastName":"Calderon",
+    "FirstName":"Juan",
+    "Grade":"1st"
+  },
+  "27086": {
+    "StudentNumber":27086,
+    "LastName":"Dansby",
+    "FirstName":"Jaydon",
+    "Grade":"1st"
+  },
+  "27087": {
+    "StudentNumber":27087,
+    "LastName":"Espino Moreno",
+    "FirstName":"Danniell",
+    "Grade":"1st"
+  },
+  "27088": {
+    "StudentNumber":27088,
+    "LastName":"Fields",
+    "FirstName":"Tatyana",
+    "Grade":"1st"
+  },
+  "27089": {
+    "StudentNumber":27089,
+    "LastName":"Garcia",
+    "FirstName":"Eduardo",
+    "Grade":"1st"
+  },
+  "27090": {
+    "StudentNumber":27090,
+    "LastName":"Hayes",
+    "FirstName":"A'laeha",
+    "Grade":"1st"
+  },
+  "27091": {
+    "StudentNumber":27091,
+    "LastName":"James",
+    "FirstName":"Jaylund",
+    "Grade":"1st"
+  },
+  "27092": {
+    "StudentNumber":27092,
+    "LastName":"Jurado",
+    "FirstName":"Joana",
+    "Grade":"1st"
+  },
+  "27093": {
+    "StudentNumber":27093,
+    "LastName":"Martinez",
+    "FirstName":"Alizae",
+    "Grade":"1st"
+  },
+  "27094": {
+    "StudentNumber":27094,
+    "LastName":"Mendoza",
+    "FirstName":"Leyla",
+    "Grade":"1st"
+  },
+  "27095": {
+    "StudentNumber":27095,
+    "LastName":"Mitchell",
+    "FirstName":"Jada",
+    "Grade":"1st"
+  },
+  "27096": {
+    "StudentNumber":27096,
+    "LastName":"Ortega",
+    "FirstName":"Andy",
+    "Grade":"1st"
+  },
+  "27097": {
+    "StudentNumber":27097,
+    "LastName":"Pequeno",
+    "FirstName":"Genaro",
+    "Grade":"1st"
+  },
+  "27098": {
+    "StudentNumber":27098,
+    "LastName":"Perez",
+    "FirstName":"Elijah",
+    "Grade":"1st"
+  },
+  "27099": {
+    "StudentNumber":27099,
+    "LastName":"Pineda",
+    "FirstName":"Rafael",
+    "Grade":"1st"
+  },
+  "27100": {
+    "StudentNumber":27100,
+    "LastName":"Quintana",
+    "FirstName":"Izsaiah",
+    "Grade":"1st"
+  },
+  "27101": {
+    "StudentNumber":27101,
+    "LastName":"Ramirez",
+    "FirstName":"Eveni",
+    "Grade":"1st"
+  },
+  "27102": {
+    "StudentNumber":27102,
+    "LastName":"Rivera",
+    "FirstName":"Ethan",
+    "Grade":"1st"
+  },
+  "27103": {
+    "StudentNumber":27103,
+    "LastName":"Roberson",
+    "FirstName":"Lundyn",
+    "Grade":"1st"
+  },
+  "27104": {
+    "StudentNumber":27104,
+    "LastName":"Saadiq",
+    "FirstName":"Najah",
+    "Grade":"1st"
+  },
+  "27105": {
+    "StudentNumber":27105,
+    "LastName":"Thornton",
+    "FirstName":"Makayla",
+    "Grade":"1st"
+  },
+  "27106": {
+    "StudentNumber":27106,
+    "LastName":"Villareal",
+    "FirstName":"Anabelen",
+    "Grade":"1st"
+  },
+  "27107": {
+    "StudentNumber":27107,
+    "LastName":"Watts",
+    "FirstName":"Andre",
+    "Grade":"1st"
+  },
+  "27108": {
+    "StudentNumber":27108,
+    "LastName":"Adams",
+    "FirstName":"Aleah",
+    "Grade":"1st"
+  },
+  "27109": {
+    "StudentNumber":27109,
+    "LastName":"Antonie",
+    "FirstName":"Cordario",
+    "Grade":"1st"
+  },
+  "27110": {
+    "StudentNumber":27110,
+    "LastName":"Arellano",
+    "FirstName":"Adrian",
+    "Grade":"1st"
+  },
+  "27111": {
+    "StudentNumber":27111,
+    "LastName":"Arriola",
+    "FirstName":"Lazaro",
+    "Grade":"1st"
+  },
+  "27112": {
+    "StudentNumber":27112,
+    "LastName":"Berry",
+    "FirstName":"Jordan",
+    "Grade":"1st"
+  },
+  "27113": {
+    "StudentNumber":27113,
+    "LastName":"Daron",
+    "FirstName":"Jaelynn",
+    "Grade":"1st"
+  },
+  "27114": {
+    "StudentNumber":27114,
+    "LastName":"Ebow-Henderson",
+    "FirstName":"Jaiden",
+    "Grade":"1st"
+  },
+  "27115": {
+    "StudentNumber":27115,
+    "LastName":"Enriquez Resendez",
+    "FirstName":"Julian",
+    "Grade":"1st"
+  },
+  "27116": {
+    "StudentNumber":27116,
+    "LastName":"Estrada",
+    "FirstName":"Jessica",
+    "Grade":"1st"
+  },
+  "27117": {
+    "StudentNumber":27117,
+    "LastName":"Flores",
+    "FirstName":"Yair",
+    "Grade":"1st"
+  },
+  "27118": {
+    "StudentNumber":27118,
+    "LastName":"Gamez",
+    "FirstName":"Nevaeh",
+    "Grade":"1st"
+  },
+  "27119": {
+    "StudentNumber":27119,
+    "LastName":"Garcai",
+    "FirstName":"Jaden",
+    "Grade":"1st"
+  },
+  "27120": {
+    "StudentNumber":27120,
+    "LastName":"Gonzalez",
+    "FirstName":"Justin",
+    "Grade":"1st"
+  },
+  "27121": {
+    "StudentNumber":27121,
+    "LastName":"Guerrero",
+    "FirstName":"Haylee",
+    "Grade":"1st"
+  },
+  "27122": {
+    "StudentNumber":27122,
+    "LastName":"Hernandez",
+    "FirstName":"Nubia",
+    "Grade":"1st"
+  },
+  "27123": {
+    "StudentNumber":27123,
+    "LastName":"Juan",
+    "FirstName":"Sergio",
+    "Grade":"1st"
+  },
+  "27124": {
+    "StudentNumber":27124,
+    "LastName":"Martinez",
+    "FirstName":"Joel",
+    "Grade":"1st"
+  },
+  "27125": {
+    "StudentNumber":27125,
+    "LastName":"Mendoza",
+    "FirstName":"Emelyn",
+    "Grade":"1st"
+  },
+  "27126": {
+    "StudentNumber":27126,
+    "LastName":"Mendoza",
+    "FirstName":"Isaias",
+    "Grade":"1st"
+  },
+  "27127": {
+    "StudentNumber":27127,
+    "LastName":"Nino",
+    "FirstName":"Leylah",
+    "Grade":"1st"
+  },
+  "27128": {
+    "StudentNumber":27128,
+    "LastName":"Pequeno",
+    "FirstName":"Geovhanny",
+    "Grade":"1st"
+  },
+  "27129": {
+    "StudentNumber":27129,
+    "LastName":"Pineda",
+    "FirstName":"Fransisco",
+    "Grade":"1st"
+  },
+  "27130": {
+    "StudentNumber":27130,
+    "LastName":"Puente",
+    "FirstName":"Anthony",
+    "Grade":"1st"
+  },
+  "27131": {
+    "StudentNumber":27131,
+    "LastName":"Quistian",
+    "FirstName":"Lily",
+    "Grade":"1st"
+  },
+  "27132": {
+    "StudentNumber":27132,
+    "LastName":"Ramirez",
+    "FirstName":"Adriana",
+    "Grade":"1st"
+  },
+  "27133": {
+    "StudentNumber":27133,
+    "LastName":"Ramirez",
+    "FirstName":"Janae",
+    "Grade":"1st"
+  },
+  "27134": {
+    "StudentNumber":27134,
+    "LastName":"Sepulveda",
+    "FirstName":"Shirley",
+    "Grade":"1st"
+  },
+  "26001": {
+    "StudentNumber":26001,
+    "LastName":"Aguilar",
+    "FirstName":"Katherine",
+    "Grade":"2nd"
+  },
+  "26002": {
+    "StudentNumber":26002,
+    "LastName":"Ambriz",
+    "FirstName":"Zuriel",
+    "Grade":"2nd"
+  },
+  "26003": {
+    "StudentNumber":26003,
+    "LastName":"Armstrong",
+    "FirstName":"Keon",
+    "Grade":"2nd"
+  },
+  "26004": {
+    "StudentNumber":26004,
+    "LastName":"Burrell",
+    "FirstName":"Jaylon",
+    "Grade":"2nd"
+  },
+  "26005": {
+    "StudentNumber":26005,
+    "LastName":"Butler",
+    "FirstName":"Zoe",
+    "Grade":"2nd"
+  },
+  "26006": {
+    "StudentNumber":26006,
+    "LastName":"Cepeda",
+    "FirstName":"Samuel",
+    "Grade":"2nd"
+  },
+  "26007": {
+    "StudentNumber":26007,
+    "LastName":"Cuellar",
+    "FirstName":"Emily",
+    "Grade":"2nd"
+  },
+  "26008": {
+    "StudentNumber":26008,
+    "LastName":"Estrada",
+    "FirstName":"Jesus",
+    "Grade":"2nd"
+  },
+  "26009": {
+    "StudentNumber":26009,
+    "LastName":"Gallegos",
+    "FirstName":"Genesis",
+    "Grade":"2nd"
+  },
+  "26010": {
+    "StudentNumber":26010,
+    "LastName":"Garcia",
+    "FirstName":"Jazmin",
+    "Grade":"2nd"
+  },
+  "26011": {
+    "StudentNumber":26011,
+    "LastName":"Gonzalez",
+    "FirstName":"Hiromi",
+    "Grade":"2nd"
+  },
+  "26012": {
+    "StudentNumber":26012,
+    "LastName":"Guerrero",
+    "FirstName":"Rafael",
+    "Grade":"2nd"
+  },
+  "26013": {
+    "StudentNumber":26013,
+    "LastName":"Harris",
+    "FirstName":"Christian",
+    "Grade":"2nd"
+  },
+  "26014": {
+    "StudentNumber":26014,
+    "LastName":"Hoyos-Alvarez",
+    "FirstName":"Mark",
+    "Grade":"2nd"
+  },
+  "26015": {
+    "StudentNumber":26015,
+    "LastName":"Iwuh",
+    "FirstName":"Brayden",
+    "Grade":"2nd"
+  },
+  "26016": {
+    "StudentNumber":26016,
+    "LastName":"Knapp",
+    "FirstName":"Caleb",
+    "Grade":"2nd"
+  },
+  "26017": {
+    "StudentNumber":26017,
+    "LastName":"Marquez",
+    "FirstName":"Aime",
+    "Grade":"2nd"
+  },
+  "26018": {
+    "StudentNumber":26018,
+    "LastName":"Mungia",
+    "FirstName":"Sophia",
+    "Grade":"2nd"
+  },
+  "26019": {
+    "StudentNumber":26019,
+    "LastName":"Orellana",
+    "FirstName":"Angel",
+    "Grade":"2nd"
+  },
+  "26020": {
+    "StudentNumber":26020,
+    "LastName":"Pinales",
+    "FirstName":"Emma",
+    "Grade":"2nd"
+  },
+  "26021": {
+    "StudentNumber":26021,
+    "LastName":"Quintana",
+    "FirstName":"Abigail",
+    "Grade":"2nd"
+  },
+  "26022": {
+    "StudentNumber":26022,
+    "LastName":"Ramirez",
+    "FirstName":"Jureimy",
+    "Grade":"2nd"
+  },
+  "26023": {
+    "StudentNumber":26023,
+    "LastName":"Richardson",
+    "FirstName":"Tierane",
+    "Grade":"2nd"
+  },
+  "26024": {
+    "StudentNumber":26024,
+    "LastName":"Vasquez",
+    "FirstName":"Elizabeth",
+    "Grade":"2nd"
+  },
+  "26025": {
+    "StudentNumber":26025,
+    "LastName":"Vazquez",
+    "FirstName":"Mauricio",
+    "Grade":"2nd"
+  },
+  "26026": {
+    "StudentNumber":26026,
+    "LastName":"Cabrales",
+    "FirstName":"Eric",
+    "Grade":"2nd"
+  },
+  "26027": {
+    "StudentNumber":26027,
+    "LastName":"Castillo",
+    "FirstName":"Orlando",
+    "Grade":"2nd"
+  },
+  "26028": {
+    "StudentNumber":26028,
+    "LastName":"Cavazos",
+    "FirstName":"Daniel",
+    "Grade":"2nd"
+  },
+  "26029": {
+    "StudentNumber":26029,
+    "LastName":"Chavez Elisea",
+    "FirstName":"Zuri",
+    "Grade":"2nd"
+  },
+  "26030": {
+    "StudentNumber":26030,
+    "LastName":"Espinoza",
+    "FirstName":"Jade",
+    "Grade":"2nd"
+  },
+  "26031": {
+    "StudentNumber":26031,
+    "LastName":"Fields",
+    "FirstName":"Theodis",
+    "Grade":"2nd"
+  },
+  "26032": {
+    "StudentNumber":26032,
+    "LastName":"Gonzalez",
+    "FirstName":"Aedan",
+    "Grade":"2nd"
+  },
+  "26033": {
+    "StudentNumber":26033,
+    "LastName":"Granados",
+    "FirstName":"Heilyn",
+    "Grade":"2nd"
+  },
+  "26034": {
+    "StudentNumber":26034,
+    "LastName":"Heras",
+    "FirstName":"Isabella",
+    "Grade":"2nd"
+  },
+  "26035": {
+    "StudentNumber":26035,
+    "LastName":"Iwuh",
+    "FirstName":"Brian",
+    "Grade":"2nd"
+  },
+  "26036": {
+    "StudentNumber":26036,
+    "LastName":"Jaramillo",
+    "FirstName":"Mariah",
+    "Grade":"2nd"
+  },
+  "26037": {
+    "StudentNumber":26037,
+    "LastName":"Jimenez",
+    "FirstName":"Destiny",
+    "Grade":"2nd"
+  },
+  "26038": {
+    "StudentNumber":26038,
+    "LastName":"Martinez",
+    "FirstName":"Jaqueline",
+    "Grade":"2nd"
+  },
+  "26039": {
+    "StudentNumber":26039,
+    "LastName":"Mendoza",
+    "FirstName":"Giselle",
+    "Grade":"2nd"
+  },
+  "26040": {
+    "StudentNumber":26040,
+    "LastName":"Mendoza",
+    "FirstName":"Joshua",
+    "Grade":"2nd"
+  },
+  "26041": {
+    "StudentNumber":26041,
+    "LastName":"Mendoza-Garcia",
+    "FirstName":"Brenda",
+    "Grade":"2nd"
+  },
+  "26042": {
+    "StudentNumber":26042,
+    "LastName":"Monroy",
+    "FirstName":"Allyson",
+    "Grade":"2nd"
+  },
+  "26043": {
+    "StudentNumber":26043,
+    "LastName":"Morales",
+    "FirstName":"Jayden",
+    "Grade":"2nd"
+  },
+  "26044": {
+    "StudentNumber":26044,
+    "LastName":"Nava",
+    "FirstName":"Clarissa",
+    "Grade":"2nd"
+  },
+  "26045": {
+    "StudentNumber":26045,
+    "LastName":"Pineda",
+    "FirstName":"Alberto",
+    "Grade":"2nd"
+  },
+  "26046": {
+    "StudentNumber":26046,
+    "LastName":"Quezada",
+    "FirstName":"Jason",
+    "Grade":"2nd"
+  },
+  "26047": {
+    "StudentNumber":26047,
+    "LastName":"Quintana",
+    "FirstName":"Zheion",
+    "Grade":"2nd"
+  },
+  "26048": {
+    "StudentNumber":26048,
+    "LastName":"Rios",
+    "FirstName":"Bryanna",
+    "Grade":"2nd"
+  },
+  "26049": {
+    "StudentNumber":26049,
+    "LastName":"Smith",
+    "FirstName":"Iykeryia",
+    "Grade":"2nd"
+  },
+  "26050": {
+    "StudentNumber":26050,
+    "LastName":"Tafoya",
+    "FirstName":"Alyssa",
+    "Grade":"2nd"
+  },
+  "26051": {
+    "StudentNumber":26051,
+    "LastName":"Banuelos",
+    "FirstName":"Javier",
+    "Grade":"2nd"
+  },
+  "26052": {
+    "StudentNumber":26052,
+    "LastName":"Carretto",
+    "FirstName":"Isabella",
+    "Grade":"2nd"
+  },
+  "26053": {
+    "StudentNumber":26053,
+    "LastName":"Cavazos",
+    "FirstName":"Sara",
+    "Grade":"2nd"
+  },
+  "26054": {
+    "StudentNumber":26054,
+    "LastName":"Gamez",
+    "FirstName":"Mariana",
+    "Grade":"2nd"
+  },
+  "26055": {
+    "StudentNumber":26055,
+    "LastName":"Garcia",
+    "FirstName":"Ashley",
+    "Grade":"2nd"
+  },
+  "26056": {
+    "StudentNumber":26056,
+    "LastName":"Garcia",
+    "FirstName":"Marelie",
+    "Grade":"2nd"
+  },
+  "26057": {
+    "StudentNumber":26057,
+    "LastName":"Gutierrez",
+    "FirstName":"Jose F.",
+    "Grade":"2nd"
+  },
+  "26058": {
+    "StudentNumber":26058,
+    "LastName":"Hernandez",
+    "FirstName":"Gerardo",
+    "Grade":"2nd"
+  },
+  "26059": {
+    "StudentNumber":26059,
+    "LastName":"Lopez",
+    "FirstName":"Allison",
+    "Grade":"2nd"
+  },
+  "26060": {
+    "StudentNumber":26060,
+    "LastName":"Marquez",
+    "FirstName":"Victoria",
+    "Grade":"2nd"
+  },
+  "26061": {
+    "StudentNumber":26061,
+    "LastName":"Martinez",
+    "FirstName":"Celia",
+    "Grade":"2nd"
+  },
+  "26062": {
+    "StudentNumber":26062,
+    "LastName":"Matias",
+    "FirstName":"Luis",
+    "Grade":"2nd"
+  },
+  "26063": {
+    "StudentNumber":26063,
+    "LastName":"Maya",
+    "FirstName":"Natalie",
+    "Grade":"2nd"
+  },
+  "26064": {
+    "StudentNumber":26064,
+    "LastName":"Maybit-Thomas",
+    "FirstName":"Becky",
+    "Grade":"2nd"
+  },
+  "26065": {
+    "StudentNumber":26065,
+    "LastName":"Mendoza",
+    "FirstName":"Jennifer",
+    "Grade":"2nd"
+  },
+  "26066": {
+    "StudentNumber":26066,
+    "LastName":"Olvera",
+    "FirstName":"Rogelio",
+    "Grade":"2nd"
+  },
+  "26067": {
+    "StudentNumber":26067,
+    "LastName":"Ortiz",
+    "FirstName":"Miguel",
+    "Grade":"2nd"
+  },
+  "26068": {
+    "StudentNumber":26068,
+    "LastName":"Ramirez",
+    "FirstName":"Brian",
+    "Grade":"2nd"
+  },
+  "26069": {
+    "StudentNumber":26069,
+    "LastName":"Ramirez",
+    "FirstName":"Judith",
+    "Grade":"2nd"
+  },
+  "26070": {
+    "StudentNumber":26070,
+    "LastName":"Ramos Arjona",
+    "FirstName":"Abiel",
+    "Grade":"2nd"
+  },
+  "26071": {
+    "StudentNumber":26071,
+    "LastName":"Reyna",
+    "FirstName":"Issac",
+    "Grade":"2nd"
+  },
+  "26072": {
+    "StudentNumber":26072,
+    "LastName":"Rosales",
+    "FirstName":"Kevin",
+    "Grade":"2nd"
+  },
+  "26073": {
+    "StudentNumber":26073,
+    "LastName":"Salazar",
+    "FirstName":"Valeria",
+    "Grade":"2nd"
+  },
+  "26074": {
+    "StudentNumber":26074,
+    "LastName":"Santamaria",
+    "FirstName":"Suamie",
+    "Grade":"2nd"
+  },
+  "26075": {
+    "StudentNumber":26075,
+    "LastName":"Soriano",
+    "FirstName":"Jesus",
+    "Grade":"2nd"
+  },
+  "26076": {
+    "StudentNumber":26076,
+    "LastName":"Banda",
+    "FirstName":"Nicholas",
+    "Grade":"2nd"
+  },
+  "26077": {
+    "StudentNumber":26077,
+    "LastName":"Ben",
+    "FirstName":"Kennedi",
+    "Grade":"2nd"
+  },
+  "26078": {
+    "StudentNumber":26078,
+    "LastName":"Clark",
+    "FirstName":"Kevin",
+    "Grade":"2nd"
+  },
+  "26079": {
+    "StudentNumber":26079,
+    "LastName":"Enard",
+    "FirstName":"Rashon",
+    "Grade":"2nd"
+  },
+  "26080": {
+    "StudentNumber":26080,
+    "LastName":"Esparza-Gonzalez",
+    "FirstName":"Romeo",
+    "Grade":"2nd"
+  },
+  "26081": {
+    "StudentNumber":26081,
+    "LastName":"Guerrero",
+    "FirstName":"Sadie",
+    "Grade":"2nd"
+  },
+  "26082": {
+    "StudentNumber":26082,
+    "LastName":"Guerrero",
+    "FirstName":"Raqael",
+    "Grade":"2nd"
+  },
+  "26083": {
+    "StudentNumber":26083,
+    "LastName":"Hernandez",
+    "FirstName":"Heidi",
+    "Grade":"2nd"
+  },
+  "26084": {
+    "StudentNumber":26084,
+    "LastName":"Hernandez",
+    "FirstName":"Isabella",
+    "Grade":"2nd"
+  },
+  "26085": {
+    "StudentNumber":26085,
+    "LastName":"Jurado",
+    "FirstName":"Naomi",
+    "Grade":"2nd"
+  },
+  "26086": {
+    "StudentNumber":26086,
+    "LastName":"Lemire",
+    "FirstName":"Cole",
+    "Grade":"2nd"
+  },
+  "26087": {
+    "StudentNumber":26087,
+    "LastName":"Martinez",
+    "FirstName":"Jazmin",
+    "Grade":"2nd"
+  },
+  "26088": {
+    "StudentNumber":26088,
+    "LastName":"Morales",
+    "FirstName":"Genesis",
+    "Grade":"2nd"
+  },
+  "26089": {
+    "StudentNumber":26089,
+    "LastName":"Palacios",
+    "FirstName":"Michael",
+    "Grade":"2nd"
+  },
+  "26090": {
+    "StudentNumber":26090,
+    "LastName":"Palucho",
+    "FirstName":"Abraham",
+    "Grade":"2nd"
+  },
+  "26091": {
+    "StudentNumber":26091,
+    "LastName":"Pena",
+    "FirstName":"Eva",
+    "Grade":"2nd"
+  },
+  "26092": {
+    "StudentNumber":26092,
+    "LastName":"Ramirez",
+    "FirstName":"Lizbeth",
+    "Grade":"2nd"
+  },
+  "26093": {
+    "StudentNumber":26093,
+    "LastName":"Rivera",
+    "FirstName":"Alexander",
+    "Grade":"2nd"
+  },
+  "26094": {
+    "StudentNumber":26094,
+    "LastName":"Rodriguez",
+    "FirstName":"Lexany",
+    "Grade":"2nd"
+  },
+  "26095": {
+    "StudentNumber":26095,
+    "LastName":"Russell",
+    "FirstName":"Martin",
+    "Grade":"2nd"
+  },
+  "26096": {
+    "StudentNumber":26096,
+    "LastName":"Serrano",
+    "FirstName":"Jose",
+    "Grade":"2nd"
+  },
+  "26097": {
+    "StudentNumber":26097,
+    "LastName":"Tenorio",
+    "FirstName":"Eduardo",
+    "Grade":"2nd"
+  },
+  "26098": {
+    "StudentNumber":26098,
+    "LastName":"Turner",
+    "FirstName":"London",
+    "Grade":"2nd"
+  },
+  "26099": {
+    "StudentNumber":26099,
+    "LastName":"Vazquez",
+    "FirstName":"Helen",
+    "Grade":"2nd"
+  },
+  "26100": {
+    "StudentNumber":26100,
+    "LastName":"Villegas",
+    "FirstName":"Emily",
+    "Grade":"2nd"
+  },
+  "26101": {
+    "StudentNumber":26101,
+    "LastName":"Alanis",
+    "FirstName":"Daisy",
+    "Grade":"2nd"
+  },
+  "26102": {
+    "StudentNumber":26102,
+    "LastName":"Andrade",
+    "FirstName":"Marysela",
+    "Grade":"2nd"
+  },
+  "26103": {
+    "StudentNumber":26103,
+    "LastName":"Arriola",
+    "FirstName":"Leah",
+    "Grade":"2nd"
+  },
+  "26104": {
+    "StudentNumber":26104,
+    "LastName":"Babino",
+    "FirstName":"Nivea",
+    "Grade":"2nd"
+  },
+  "26105": {
+    "StudentNumber":26105,
+    "LastName":"Baker",
+    "FirstName":"Chase",
+    "Grade":"2nd"
+  },
+  "26106": {
+    "StudentNumber":26106,
+    "LastName":"Benavides",
+    "FirstName":"Henry",
+    "Grade":"2nd"
+  },
+  "26107": {
+    "StudentNumber":26107,
+    "LastName":"Colbert",
+    "FirstName":"Caliyah",
+    "Grade":"2nd"
+  },
+  "26108": {
+    "StudentNumber":26108,
+    "LastName":"Fletcher",
+    "FirstName":"Dwight",
+    "Grade":"2nd"
+  },
+  "26109": {
+    "StudentNumber":26109,
+    "LastName":"Garza",
+    "FirstName":"Camila",
+    "Grade":"2nd"
+  },
+  "26110": {
+    "StudentNumber":26110,
+    "LastName":"Hernandez",
+    "FirstName":"Rory",
+    "Grade":"2nd"
+  },
+  "26111": {
+    "StudentNumber":26111,
+    "LastName":"Jayasi",
+    "FirstName":"Ivan",
+    "Grade":"2nd"
+  },
+  "26112": {
+    "StudentNumber":26112,
+    "LastName":"Maldonado",
+    "FirstName":"D'Andre",
+    "Grade":"2nd"
+  },
+  "26113": {
+    "StudentNumber":26113,
+    "LastName":"Mireles",
+    "FirstName":"Daniela",
+    "Grade":"2nd"
+  },
+  "26114": {
+    "StudentNumber":26114,
+    "LastName":"Morones",
+    "FirstName":"Jennesy",
+    "Grade":"2nd"
+  },
+  "26115": {
+    "StudentNumber":26115,
+    "LastName":"Orellana",
+    "FirstName":"Bryen",
+    "Grade":"2nd"
+  },
+  "26116": {
+    "StudentNumber":26116,
+    "LastName":"Ortega",
+    "FirstName":"Natalie",
+    "Grade":"2nd"
+  },
+  "26117": {
+    "StudentNumber":26117,
+    "LastName":"Prieto-Solis",
+    "FirstName":"Ashley",
+    "Grade":"2nd"
+  },
+  "26118": {
+    "StudentNumber":26118,
+    "LastName":"Ramirez",
+    "FirstName":"Anaya",
+    "Grade":"2nd"
+  },
+  "26119": {
+    "StudentNumber":26119,
+    "LastName":"Ramirez",
+    "FirstName":"Elijah",
+    "Grade":"2nd"
+  },
+  "26120": {
+    "StudentNumber":26120,
+    "LastName":"Robledo",
+    "FirstName":"Karla",
+    "Grade":"2nd"
+  },
+  "26121": {
+    "StudentNumber":26121,
+    "LastName":"Rodriguez",
+    "FirstName":"Samuel",
+    "Grade":"2nd"
+  },
+  "26122": {
+    "StudentNumber":26122,
+    "LastName":"Sanchez",
+    "FirstName":"Gloria",
+    "Grade":"2nd"
+  },
+  "26123": {
+    "StudentNumber":26123,
+    "LastName":"Sanchez",
+    "FirstName":"Rodrigo",
+    "Grade":"2nd"
+  },
+  "26124": {
+    "StudentNumber":26124,
+    "LastName":"Thompson",
+    "FirstName":"Colt",
+    "Grade":"2nd"
+  },
+  "26125": {
+    "StudentNumber":26125,
+    "LastName":"Turner",
+    "FirstName":"Jhaniya",
+    "Grade":"2nd"
+  },
+  "25001": {
+    "StudentNumber":25001,
+    "LastName":"Aguirre",
+    "FirstName":"Roberto",
+    "Grade":"3rd"
+  },
+  "25002": {
+    "StudentNumber":25002,
+    "LastName":"Aucacela",
+    "FirstName":"Nicolas",
+    "Grade":"3rd"
+  },
+  "25003": {
+    "StudentNumber":25003,
+    "LastName":"Barrera",
+    "FirstName":"Ashley",
+    "Grade":"3rd"
+  },
+  "25004": {
+    "StudentNumber":25004,
+    "LastName":"Cardenas",
+    "FirstName":"Uziel",
+    "Grade":"3rd"
+  },
+  "25005": {
+    "StudentNumber":25005,
+    "LastName":"Carretto",
+    "FirstName":"Abraham",
+    "Grade":"3rd"
+  },
+  "25006": {
+    "StudentNumber":25006,
+    "LastName":"Castillo",
+    "FirstName":"Davian",
+    "Grade":"3rd"
+  },
+  "25007": {
+    "StudentNumber":25007,
+    "LastName":"Cordova",
+    "FirstName":"Jamie",
+    "Grade":"3rd"
+  },
+  "25008": {
+    "StudentNumber":25008,
+    "LastName":"Cruz",
+    "FirstName":"Nancy",
+    "Grade":"3rd"
+  },
+  "25009": {
+    "StudentNumber":25009,
+    "LastName":"Guevara",
+    "FirstName":"Alondra",
+    "Grade":"3rd"
+  },
+  "25010": {
+    "StudentNumber":25010,
+    "LastName":"Hernandez",
+    "FirstName":"Jayla",
+    "Grade":"3rd"
+  },
+  "25011": {
+    "StudentNumber":25011,
+    "LastName":"Hernandez",
+    "FirstName":"Rafael",
+    "Grade":"3rd"
+  },
+  "25012": {
+    "StudentNumber":25012,
+    "LastName":"Hernandez",
+    "FirstName":"Raymond",
+    "Grade":"3rd"
+  },
+  "25013": {
+    "StudentNumber":25013,
+    "LastName":"Juarez",
+    "FirstName":"Yocelyn",
+    "Grade":"3rd"
+  },
+  "25014": {
+    "StudentNumber":25014,
+    "LastName":"Lopez",
+    "FirstName":"Blanca",
+    "Grade":"3rd"
+  },
+  "25015": {
+    "StudentNumber":25015,
+    "LastName":"Martinez",
+    "FirstName":"Brandon",
+    "Grade":"3rd"
+  },
+  "25016": {
+    "StudentNumber":25016,
+    "LastName":"Martinez",
+    "FirstName":"Joseph",
+    "Grade":"3rd"
+  },
+  "25017": {
+    "StudentNumber":25017,
+    "LastName":"Martinez",
+    "FirstName":"Kimberly",
+    "Grade":"3rd"
+  },
+  "25018": {
+    "StudentNumber":25018,
+    "LastName":"Oliva",
+    "FirstName":"Juan",
+    "Grade":"3rd"
+  },
+  "25019": {
+    "StudentNumber":25019,
+    "LastName":"Ortiz",
+    "FirstName":"Joyce",
+    "Grade":"3rd"
+  },
+  "25020": {
+    "StudentNumber":25020,
+    "LastName":"Padron",
+    "FirstName":"Irene",
+    "Grade":"3rd"
+  },
+  "25021": {
+    "StudentNumber":25021,
+    "LastName":"Quintero",
+    "FirstName":"Emily",
+    "Grade":"3rd"
+  },
+  "25022": {
+    "StudentNumber":25022,
+    "LastName":"Rodriguez",
+    "FirstName":"Samuel",
+    "Grade":"3rd"
+  },
+  "25023": {
+    "StudentNumber":25023,
+    "LastName":"Silva Rodriguez",
+    "FirstName":"Emilly",
+    "Grade":"3rd"
+  },
+  "25024": {
+    "StudentNumber":25024,
+    "LastName":"Silva   ",
+    "FirstName":"Ella",
+    "Grade":"3rd"
+  },
+  "25025": {
+    "StudentNumber":25025,
+    "LastName":"Trevizo",
+    "FirstName":"Damien",
+    "Grade":"3rd"
+  },
+  "25026": {
+    "StudentNumber":25026,
+    "LastName":"Villareal",
+    "FirstName":"Diana",
+    "Grade":"3rd"
+  },
+  "25027": {
+    "StudentNumber":25027,
+    "LastName":"Bacon",
+    "FirstName":"Devonte",
+    "Grade":"3rd"
+  },
+  "25028": {
+    "StudentNumber":25028,
+    "LastName":"Camarillo",
+    "FirstName":"Brian",
+    "Grade":"3rd"
+  },
+  "25029": {
+    "StudentNumber":25029,
+    "LastName":"Careaga",
+    "FirstName":"Kevin",
+    "Grade":"3rd"
+  },
+  "25030": {
+    "StudentNumber":25030,
+    "LastName":"Clayton",
+    "FirstName":"Eva",
+    "Grade":"3rd"
+  },
+  "25031": {
+    "StudentNumber":25031,
+    "LastName":"Coronado",
+    "FirstName":"Alejandro",
+    "Grade":"3rd"
+  },
+  "25032": {
+    "StudentNumber":25032,
+    "LastName":"Cortes Rosales",
+    "FirstName":"Elizabeth",
+    "Grade":"3rd"
+  },
+  "25033": {
+    "StudentNumber":25033,
+    "LastName":"Cruz-Dees",
+    "FirstName":"Sara",
+    "Grade":"3rd"
+  },
+  "25034": {
+    "StudentNumber":25034,
+    "LastName":"Daron",
+    "FirstName":"Demarco",
+    "Grade":"3rd"
+  },
+  "25035": {
+    "StudentNumber":25035,
+    "LastName":"Flores",
+    "FirstName":"Ethan",
+    "Grade":"3rd"
+  },
+  "25036": {
+    "StudentNumber":25036,
+    "LastName":"Flores",
+    "FirstName":"Ivania",
+    "Grade":"3rd"
+  },
+  "25037": {
+    "StudentNumber":25037,
+    "LastName":"Garcia",
+    "FirstName":"Jose A. ",
+    "Grade":"3rd"
+  },
+  "25038": {
+    "StudentNumber":25038,
+    "LastName":"Hawthorn",
+    "FirstName":"Rashaun",
+    "Grade":"3rd"
+  },
+  "25039": {
+    "StudentNumber":25039,
+    "LastName":"Huerta Ramirez",
+    "FirstName":"Joseline",
+    "Grade":"3rd"
+  },
+  "25040": {
+    "StudentNumber":25040,
+    "LastName":"Jayasi",
+    "FirstName":"Aaliyah",
+    "Grade":"3rd"
+  },
+  "25041": {
+    "StudentNumber":25041,
+    "LastName":"Medina",
+    "FirstName":"Anaiyah",
+    "Grade":"3rd"
+  },
+  "25042": {
+    "StudentNumber":25042,
+    "LastName":"O'Hara",
+    "FirstName":"Sa'Niyah",
+    "Grade":"3rd"
+  },
+  "25043": {
+    "StudentNumber":25043,
+    "LastName":"Pedraza",
+    "FirstName":"Michelle",
+    "Grade":"3rd"
+  },
+  "25044": {
+    "StudentNumber":25044,
+    "LastName":"Perez",
+    "FirstName":"Gabriela",
+    "Grade":"3rd"
+  },
+  "25045": {
+    "StudentNumber":25045,
+    "LastName":"Raya",
+    "FirstName":"Gustavo",
+    "Grade":"3rd"
+  },
+  "25046": {
+    "StudentNumber":25046,
+    "LastName":"Reyes",
+    "FirstName":"Shawn",
+    "Grade":"3rd"
+  },
+  "25047": {
+    "StudentNumber":25047,
+    "LastName":"Thomas",
+    "FirstName":"Javar",
+    "Grade":"3rd"
+  },
+  "25048": {
+    "StudentNumber":25048,
+    "LastName":"Tristan",
+    "FirstName":"Fransisco",
+    "Grade":"3rd"
+  },
+  "25049": {
+    "StudentNumber":25049,
+    "LastName":"Vega-Acosta",
+    "FirstName":"Fernando",
+    "Grade":"3rd"
+  },
+  "25050": {
+    "StudentNumber":25050,
+    "LastName":"Williams",
+    "FirstName":"Jacqulynn",
+    "Grade":"3rd"
+  },
+  "25051": {
+    "StudentNumber":25051,
+    "LastName":"Amos",
+    "FirstName":"Otis",
+    "Grade":"3rd"
+  },
+  "25052": {
+    "StudentNumber":25052,
+    "LastName":"Barroso",
+    "FirstName":"Geronimo",
+    "Grade":"3rd"
+  },
+  "25053": {
+    "StudentNumber":25053,
+    "LastName":"Bingham",
+    "FirstName":"Matthew",
+    "Grade":"3rd"
+  },
+  "25054": {
+    "StudentNumber":25054,
+    "LastName":"Cassel",
+    "FirstName":"Weldton",
+    "Grade":"3rd"
+  },
+  "25055": {
+    "StudentNumber":25055,
+    "LastName":"Castelan",
+    "FirstName":"Uziel",
+    "Grade":"3rd"
+  },
+  "25056": {
+    "StudentNumber":25056,
+    "LastName":"Castillo",
+    "FirstName":"Rey",
+    "Grade":"3rd"
+  },
+  "25057": {
+    "StudentNumber":25057,
+    "LastName":"Cortez",
+    "FirstName":"Jaccob",
+    "Grade":"3rd"
+  },
+  "25058": {
+    "StudentNumber":25058,
+    "LastName":"Cruz",
+    "FirstName":"Valeria",
+    "Grade":"3rd"
+  },
+  "25059": {
+    "StudentNumber":25059,
+    "LastName":"Esparza-Gonzalez",
+    "FirstName":"Lizette",
+    "Grade":"3rd"
+  },
+  "25060": {
+    "StudentNumber":25060,
+    "LastName":"Esquiviel",
+    "FirstName":"Mia",
+    "Grade":"3rd"
+  },
+  "25061": {
+    "StudentNumber":25061,
+    "LastName":"Fletcher",
+    "FirstName":"Dennetria",
+    "Grade":"3rd"
+  },
+  "25062": {
+    "StudentNumber":25062,
+    "LastName":"Garcia",
+    "FirstName":"Esli",
+    "Grade":"3rd"
+  },
+  "25063": {
+    "StudentNumber":25063,
+    "LastName":"Gomez",
+    "FirstName":"Johnny",
+    "Grade":"3rd"
+  },
+  "25064": {
+    "StudentNumber":25064,
+    "LastName":"Guerrero",
+    "FirstName":"Natalie",
+    "Grade":"3rd"
+  },
+  "25065": {
+    "StudentNumber":25065,
+    "LastName":"Gutierrez",
+    "FirstName":"Cynthia",
+    "Grade":"3rd"
+  },
+  "25066": {
+    "StudentNumber":25066,
+    "LastName":"Hernandez",
+    "FirstName":"Johan",
+    "Grade":"3rd"
+  },
+  "25067": {
+    "StudentNumber":25067,
+    "LastName":"Leon",
+    "FirstName":"Ana",
+    "Grade":"3rd"
+  },
+  "25068": {
+    "StudentNumber":25068,
+    "LastName":"Maldonado",
+    "FirstName":"Lidia",
+    "Grade":"3rd"
+  },
+  "25069": {
+    "StudentNumber":25069,
+    "LastName":"Mireles",
+    "FirstName":"Daniella",
+    "Grade":"3rd"
+  },
+  "25070": {
+    "StudentNumber":25070,
+    "LastName":"Olvera",
+    "FirstName":"Manuel",
+    "Grade":"3rd"
+  },
+  "25071": {
+    "StudentNumber":25071,
+    "LastName":"Ramirez",
+    "FirstName":"Mauricio",
+    "Grade":"3rd"
+  },
+  "25072": {
+    "StudentNumber":25072,
+    "LastName":"Rivera",
+    "FirstName":"Nathan",
+    "Grade":"3rd"
+  },
+  "25073": {
+    "StudentNumber":25073,
+    "LastName":"Stephens-Carr",
+    "FirstName":"Nathan",
+    "Grade":"3rd"
+  },
+  "25074": {
+    "StudentNumber":25074,
+    "LastName":"Wilhite",
+    "FirstName":"Margan",
+    "Grade":"3rd"
+  },
+  "25075": {
+    "StudentNumber":25075,
+    "LastName":"Aranda Lara",
+    "FirstName":"Nahima",
+    "Grade":"3rd"
+  },
+  "25076": {
+    "StudentNumber":25076,
+    "LastName":"Cordolino",
+    "FirstName":"Bella",
+    "Grade":"3rd"
+  },
+  "25077": {
+    "StudentNumber":25077,
+    "LastName":"De Leon",
+    "FirstName":"Gennesis",
+    "Grade":"3rd"
+  },
+  "25078": {
+    "StudentNumber":25078,
+    "LastName":"Flores",
+    "FirstName":"Phoenix",
+    "Grade":"3rd"
+  },
+  "25079": {
+    "StudentNumber":25079,
+    "LastName":"Funez",
+    "FirstName":"Katya",
+    "Grade":"3rd"
+  },
+  "25080": {
+    "StudentNumber":25080,
+    "LastName":"Guillen",
+    "FirstName":"Nathaniel",
+    "Grade":"3rd"
+  },
+  "25081": {
+    "StudentNumber":25081,
+    "LastName":"Hoys-Alvarez",
+    "FirstName":"Alessandra",
+    "Grade":"3rd"
+  },
+  "25082": {
+    "StudentNumber":25082,
+    "LastName":"Jimenez",
+    "FirstName":"Jacob",
+    "Grade":"3rd"
+  },
+  "25083": {
+    "StudentNumber":25083,
+    "LastName":"Luviano",
+    "FirstName":"David",
+    "Grade":"3rd"
+  },
+  "25084": {
+    "StudentNumber":25084,
+    "LastName":"Martinez",
+    "FirstName":"Jonathan",
+    "Grade":"3rd"
+  },
+  "25085": {
+    "StudentNumber":25085,
+    "LastName":"Mata",
+    "FirstName":"Mauricio",
+    "Grade":"3rd"
+  },
+  "25086": {
+    "StudentNumber":25086,
+    "LastName":"Moreno",
+    "FirstName":"Adiel",
+    "Grade":"3rd"
+  },
+  "25087": {
+    "StudentNumber":25087,
+    "LastName":"Olvera",
+    "FirstName":"Jesus",
+    "Grade":"3rd"
+  },
+  "25088": {
+    "StudentNumber":25088,
+    "LastName":"Padilla",
+    "FirstName":"Sabrina",
+    "Grade":"3rd"
+  },
+  "25089": {
+    "StudentNumber":25089,
+    "LastName":"Porras",
+    "FirstName":"Alyssa",
+    "Grade":"3rd"
+  },
+  "25090": {
+    "StudentNumber":25090,
+    "LastName":"Puente",
+    "FirstName":"David",
+    "Grade":"3rd"
+  },
+  "25091": {
+    "StudentNumber":25091,
+    "LastName":"Ramirez",
+    "FirstName":"Erika",
+    "Grade":"3rd"
+  },
+  "25092": {
+    "StudentNumber":25092,
+    "LastName":"Reyes",
+    "FirstName":"Natalie",
+    "Grade":"3rd"
+  },
+  "25093": {
+    "StudentNumber":25093,
+    "LastName":"Sanchez",
+    "FirstName":"Gerson",
+    "Grade":"3rd"
+  },
+  "25094": {
+    "StudentNumber":25094,
+    "LastName":"Sepulveda",
+    "FirstName":"Sheyla",
+    "Grade":"3rd"
+  },
+  "25095": {
+    "StudentNumber":25095,
+    "LastName":"Suarez",
+    "FirstName":"Aaron",
+    "Grade":"3rd"
+  },
+  "25096": {
+    "StudentNumber":25096,
+    "LastName":"Valdez",
+    "FirstName":"Jeremiah",
+    "Grade":"3rd"
+  },
+  "25097": {
+    "StudentNumber":25097,
+    "LastName":"Velasquez",
+    "FirstName":"Joselyn",
+    "Grade":"3rd"
+  },
+  "25098": {
+    "StudentNumber":25098,
+    "LastName":"Venegas",
+    "FirstName":"Ashley",
+    "Grade":"3rd"
+  },
+  "25099": {
+    "StudentNumber":25099,
+    "LastName":"Albarran",
+    "FirstName":"Anaodilia",
+    "Grade":"3rd"
+  },
+  "25100": {
+    "StudentNumber":25100,
+    "LastName":"Almendarez",
+    "FirstName":"Eddie",
+    "Grade":"3rd"
+  },
+  "25101": {
+    "StudentNumber":25101,
+    "LastName":"Alvarez",
+    "FirstName":"Leah",
+    "Grade":"3rd"
+  },
+  "25102": {
+    "StudentNumber":25102,
+    "LastName":"Benitez",
+    "FirstName":"Jesse",
+    "Grade":"3rd"
+  },
+  "25103": {
+    "StudentNumber":25103,
+    "LastName":"Cardenas",
+    "FirstName":"David",
+    "Grade":"3rd"
+  },
+  "25104": {
+    "StudentNumber":25104,
+    "LastName":"Cavazos",
+    "FirstName":"Joe",
+    "Grade":"3rd"
+  },
+  "25105": {
+    "StudentNumber":25105,
+    "LastName":"Contreras ",
+    "FirstName":"Leilani",
+    "Grade":"3rd"
+  },
+  "25106": {
+    "StudentNumber":25106,
+    "LastName":"Douglas",
+    "FirstName":"Ja'niah",
+    "Grade":"3rd"
+  },
+  "25107": {
+    "StudentNumber":25107,
+    "LastName":"Favela",
+    "FirstName":"Victor",
+    "Grade":"3rd"
+  },
+  "25108": {
+    "StudentNumber":25108,
+    "LastName":"Garcia",
+    "FirstName":"Brianna",
+    "Grade":"3rd"
+  },
+  "25109": {
+    "StudentNumber":25109,
+    "LastName":"Garcia",
+    "FirstName":"Isaiah",
+    "Grade":"3rd"
+  },
+  "25110": {
+    "StudentNumber":25110,
+    "LastName":"Garcia",
+    "FirstName":"Jaselle",
+    "Grade":"3rd"
+  },
+  "25111": {
+    "StudentNumber":25111,
+    "LastName":"Gonzalez",
+    "FirstName":"Melanie",
+    "Grade":"3rd"
+  },
+  "25112": {
+    "StudentNumber":25112,
+    "LastName":"Grice",
+    "FirstName":"Jordan",
+    "Grade":"3rd"
+  },
+  "25113": {
+    "StudentNumber":25113,
+    "LastName":"Guerrero",
+    "FirstName":"Jade",
+    "Grade":"3rd"
+  },
+  "25114": {
+    "StudentNumber":25114,
+    "LastName":"Guevara",
+    "FirstName":"Madaleine",
+    "Grade":"3rd"
+  },
+  "25115": {
+    "StudentNumber":25115,
+    "LastName":"Lewis",
+    "FirstName":"Kennedi",
+    "Grade":"3rd"
+  },
+  "25116": {
+    "StudentNumber":25116,
+    "LastName":"Olazaran",
+    "FirstName":"Luzdivina",
+    "Grade":"3rd"
+  },
+  "25117": {
+    "StudentNumber":25117,
+    "LastName":"Ortiz",
+    "FirstName":"Esmeralda",
+    "Grade":"3rd"
+  },
+  "25118": {
+    "StudentNumber":25118,
+    "LastName":"Pena",
+    "FirstName":"Antonio",
+    "Grade":"3rd"
+  },
+  "25119": {
+    "StudentNumber":25119,
+    "LastName":"Ramirez ",
+    "FirstName":"Jesus",
+    "Grade":"3rd"
+  },
+  "25120": {
+    "StudentNumber":25120,
+    "LastName":"Torres Rivera",
+    "FirstName":"Alaina",
+    "Grade":"3rd"
+  },
+  "25121": {
+    "StudentNumber":25121,
+    "LastName":"Walker",
+    "FirstName":"Cam'ron",
+    "Grade":"3rd"
+  },
+  "25122": {
+    "StudentNumber":25122,
+    "LastName":"Williams",
+    "FirstName":"Marcus",
+    "Grade":"3rd"
+  },
+  "24001": {
+    "StudentNumber":24001,
+    "LastName":"Adams",
+    "FirstName":"Courtney",
+    "Grade":"4th"
+  },
+  "24002": {
+    "StudentNumber":24002,
+    "LastName":"Aguilar",
+    "FirstName":"Christopher",
+    "Grade":"4th"
+  },
+  "24003": {
+    "StudentNumber":24003,
+    "LastName":"Alvarez",
+    "FirstName":"Ava",
+    "Grade":"4th"
+  },
+  "24004": {
+    "StudentNumber":24004,
+    "LastName":"Aviles",
+    "FirstName":"Carlos",
+    "Grade":"4th"
+  },
+  "24005": {
+    "StudentNumber":24005,
+    "LastName":"Barrientos",
+    "FirstName":"Dominic",
+    "Grade":"4th"
+  },
+  "24006": {
+    "StudentNumber":24006,
+    "LastName":"Cardona",
+    "FirstName":"Emily",
+    "Grade":"4th"
+  },
+  "24007": {
+    "StudentNumber":24007,
+    "LastName":"Cardenas",
+    "FirstName":"Nayeli",
+    "Grade":"4th"
+  },
+  "24008": {
+    "StudentNumber":24008,
+    "LastName":"Garcia",
+    "FirstName":"Leonardo",
+    "Grade":"4th"
+  },
+  "24009": {
+    "StudentNumber":24009,
+    "LastName":"Gomez",
+    "FirstName":"Monse",
+    "Grade":"4th"
+  },
+  "24010": {
+    "StudentNumber":24010,
+    "LastName":"Gonzalez",
+    "FirstName":"Angela",
+    "Grade":"4th"
+  },
+  "24011": {
+    "StudentNumber":24011,
+    "LastName":"Hurtado",
+    "FirstName":"Sergio",
+    "Grade":"4th"
+  },
+  "24012": {
+    "StudentNumber":24012,
+    "LastName":"Jimenez",
+    "FirstName":"Israel",
+    "Grade":"4th"
+  },
+  "24013": {
+    "StudentNumber":24013,
+    "LastName":"King",
+    "FirstName":"Bria",
+    "Grade":"4th"
+  },
+  "24014": {
+    "StudentNumber":24014,
+    "LastName":"Knapp",
+    "FirstName":"Windy",
+    "Grade":"4th"
+  },
+  "24015": {
+    "StudentNumber":24015,
+    "LastName":"Lambur",
+    "FirstName":"Angel",
+    "Grade":"4th"
+  },
+  "24016": {
+    "StudentNumber":24016,
+    "LastName":"Leija",
+    "FirstName":"Jose",
+    "Grade":"4th"
+  },
+  "24017": {
+    "StudentNumber":24017,
+    "LastName":"Manning",
+    "FirstName":"Nuriah",
+    "Grade":"4th"
+  },
+  "24018": {
+    "StudentNumber":24018,
+    "LastName":"Martinez",
+    "FirstName":"Joshua",
+    "Grade":"4th"
+  },
+  "24019": {
+    "StudentNumber":24019,
+    "LastName":"McNeal",
+    "FirstName":"Jamel",
+    "Grade":"4th"
+  },
+  "24020": {
+    "StudentNumber":24020,
+    "LastName":"Ortega",
+    "FirstName":"Nicholas",
+    "Grade":"4th"
+  },
+  "24021": {
+    "StudentNumber":24021,
+    "LastName":"Palada",
+    "FirstName":"Josue",
+    "Grade":"4th"
+  },
+  "24022": {
+    "StudentNumber":24022,
+    "LastName":"Palucho",
+    "FirstName":"Natalie",
+    "Grade":"4th"
+  },
+  "24023": {
+    "StudentNumber":24023,
+    "LastName":"Quiroz",
+    "FirstName":"Yahaira",
+    "Grade":"4th"
+  },
+  "24024": {
+    "StudentNumber":24024,
+    "LastName":"Rodriguez",
+    "FirstName":"Aaron",
+    "Grade":"4th"
+  },
+  "24025": {
+    "StudentNumber":24025,
+    "LastName":"Rodriguez",
+    "FirstName":"Daphne",
+    "Grade":"4th"
+  },
+  "24026": {
+    "StudentNumber":24026,
+    "LastName":"Sanchez",
+    "FirstName":"Victor",
+    "Grade":"4th"
+  },
+  "24027": {
+    "StudentNumber":24027,
+    "LastName":"Santos",
+    "FirstName":"Valeri",
+    "Grade":"4th"
+  },
+  "24028": {
+    "StudentNumber":24028,
+    "LastName":"Thornton",
+    "FirstName":"Madison",
+    "Grade":"4th"
+  },
+  "24029": {
+    "StudentNumber":24029,
+    "LastName":"Torres",
+    "FirstName":"Isaiah",
+    "Grade":"4th"
+  },
+  "24030": {
+    "StudentNumber":24030,
+    "LastName":"Albarran",
+    "FirstName":"Joseph",
+    "Grade":"4th"
+  },
+  "24031": {
+    "StudentNumber":24031,
+    "LastName":"Armstrong",
+    "FirstName":"Channing",
+    "Grade":"4th"
+  },
+  "24032": {
+    "StudentNumber":24032,
+    "LastName":"Banuelos",
+    "FirstName":"Erika",
+    "Grade":"4th"
+  },
+  "24033": {
+    "StudentNumber":24033,
+    "LastName":"Blanco",
+    "FirstName":"Johan",
+    "Grade":"4th"
+  },
+  "24034": {
+    "StudentNumber":24034,
+    "LastName":"Cardenas",
+    "FirstName":"Victoria",
+    "Grade":"4th"
+  },
+  "24035": {
+    "StudentNumber":24035,
+    "LastName":"Clark",
+    "FirstName":"Giselle",
+    "Grade":"4th"
+  },
+  "24036": {
+    "StudentNumber":24036,
+    "LastName":"Duenez",
+    "FirstName":"Esmeralda",
+    "Grade":"4th"
+  },
+  "24037": {
+    "StudentNumber":24037,
+    "LastName":"Elisea-Escobar",
+    "FirstName":"Evelyn",
+    "Grade":"4th"
+  },
+  "24038": {
+    "StudentNumber":24038,
+    "LastName":"Gonzalez",
+    "FirstName":"Raul",
+    "Grade":"4th"
+  },
+  "24039": {
+    "StudentNumber":24039,
+    "LastName":"Hernandez",
+    "FirstName":"Daniela",
+    "Grade":"4th"
+  },
+  "24040": {
+    "StudentNumber":24040,
+    "LastName":"Jackson",
+    "FirstName":"Kamryn",
+    "Grade":"4th"
+  },
+  "24041": {
+    "StudentNumber":24041,
+    "LastName":"Lara",
+    "FirstName":"Julie",
+    "Grade":"4th"
+  },
+  "24042": {
+    "StudentNumber":24042,
+    "LastName":"Leon",
+    "FirstName":"Andres",
+    "Grade":"4th"
+  },
+  "24043": {
+    "StudentNumber":24043,
+    "LastName":"Marin",
+    "FirstName":"Zoey",
+    "Grade":"4th"
+  },
+  "24044": {
+    "StudentNumber":24044,
+    "LastName":"Martinez",
+    "FirstName":"Damaris",
+    "Grade":"4th"
+  },
+  "24045": {
+    "StudentNumber":24045,
+    "LastName":"Maybit Thomas",
+    "FirstName":"Ethan",
+    "Grade":"4th"
+  },
+  "24046": {
+    "StudentNumber":24046,
+    "LastName":"O'Hara",
+    "FirstName":"Sa'Maria",
+    "Grade":"4th"
+  },
+  "24047": {
+    "StudentNumber":24047,
+    "LastName":"Ortiz",
+    "FirstName":"Christian",
+    "Grade":"4th"
+  },
+  "24048": {
+    "StudentNumber":24048,
+    "LastName":"Puente",
+    "FirstName":"Jeremy",
+    "Grade":"4th"
+  },
+  "24049": {
+    "StudentNumber":24049,
+    "LastName":"Quijano",
+    "FirstName":"Samantha",
+    "Grade":"4th"
+  },
+  "24050": {
+    "StudentNumber":24050,
+    "LastName":"Quintero",
+    "FirstName":"Armando",
+    "Grade":"4th"
+  },
+  "24051": {
+    "StudentNumber":24051,
+    "LastName":"Robicheaux",
+    "FirstName":"Carleigh",
+    "Grade":"4th"
+  },
+  "24052": {
+    "StudentNumber":24052,
+    "LastName":"Rubio",
+    "FirstName":"Clarissa",
+    "Grade":"4th"
+  },
+  "24053": {
+    "StudentNumber":24053,
+    "LastName":"Santamaria",
+    "FirstName":"Christian",
+    "Grade":"4th"
+  },
+  "24054": {
+    "StudentNumber":24054,
+    "LastName":"Serna",
+    "FirstName":"Sylvester",
+    "Grade":"4th"
+  },
+  "24055": {
+    "StudentNumber":24055,
+    "LastName":"Tafoya",
+    "FirstName":"Biana",
+    "Grade":"4th"
+  },
+  "24056": {
+    "StudentNumber":24056,
+    "LastName":"Velasquez",
+    "FirstName":"Alexander",
+    "Grade":"4th"
+  },
+  "24057": {
+    "StudentNumber":24057,
+    "LastName":"Walker",
+    "FirstName":"Jordan",
+    "Grade":"4th"
+  },
+  "24058": {
+    "StudentNumber":24058,
+    "LastName":"Aleman",
+    "FirstName":"Cristian",
+    "Grade":"4th"
+  },
+  "24059": {
+    "StudentNumber":24059,
+    "LastName":"Alvarez",
+    "FirstName":"Zelyne",
+    "Grade":"4th"
+  },
+  "24060": {
+    "StudentNumber":24060,
+    "LastName":"Arellano",
+    "FirstName":"Julissa",
+    "Grade":"4th"
+  },
+  "24061": {
+    "StudentNumber":24061,
+    "LastName":"Barrios",
+    "FirstName":"Jonathan",
+    "Grade":"4th"
+  },
+  "24062": {
+    "StudentNumber":24062,
+    "LastName":"Carachure",
+    "FirstName":"Alexandra",
+    "Grade":"4th"
+  },
+  "24063": {
+    "StudentNumber":24063,
+    "LastName":"Castaneda",
+    "FirstName":"Issac",
+    "Grade":"4th"
+  },
+  "24064": {
+    "StudentNumber":24064,
+    "LastName":"Clay",
+    "FirstName":"Dillan",
+    "Grade":"4th"
+  },
+  "24065": {
+    "StudentNumber":24065,
+    "LastName":"Diaz",
+    "FirstName":"Kassidy",
+    "Grade":"4th"
+  },
+  "24066": {
+    "StudentNumber":24066,
+    "LastName":"Galaviz",
+    "FirstName":"Alan",
+    "Grade":"4th"
+  },
+  "24067": {
+    "StudentNumber":24067,
+    "LastName":"Garza",
+    "FirstName":"Abbey",
+    "Grade":"4th"
+  },
+  "24068": {
+    "StudentNumber":24068,
+    "LastName":"Gee",
+    "FirstName":"Jesse",
+    "Grade":"4th"
+  },
+  "24069": {
+    "StudentNumber":24069,
+    "LastName":"Hernandez",
+    "FirstName":"Allan",
+    "Grade":"4th"
+  },
+  "24070": {
+    "StudentNumber":24070,
+    "LastName":"Johnson",
+    "FirstName":"Rayshawn",
+    "Grade":"4th"
+  },
+  "24071": {
+    "StudentNumber":24071,
+    "LastName":"Lara",
+    "FirstName":"Azenet",
+    "Grade":"4th"
+  },
+  "24072": {
+    "StudentNumber":24072,
+    "LastName":"Mendoza",
+    "FirstName":"Angielyn",
+    "Grade":"4th"
+  },
+  "24073": {
+    "StudentNumber":24073,
+    "LastName":"Mirando",
+    "FirstName":"Jasmin",
+    "Grade":"4th"
+  },
+  "24074": {
+    "StudentNumber":24074,
+    "LastName":"Miranda",
+    "FirstName":"Jesse",
+    "Grade":"4th"
+  },
+  "24075": {
+    "StudentNumber":24075,
+    "LastName":"Edgar",
+    "FirstName":"Montoya",
+    "Grade":"4th"
+  },
+  "24076": {
+    "StudentNumber":24076,
+    "LastName":"Moran",
+    "FirstName":"Emely",
+    "Grade":"4th"
+  },
+  "24077": {
+    "StudentNumber":24077,
+    "LastName":"Quezada",
+    "FirstName":"Jacob",
+    "Grade":"4th"
+  },
+  "24078": {
+    "StudentNumber":24078,
+    "LastName":"Ramirez",
+    "FirstName":"Javier",
+    "Grade":"4th"
+  },
+  "24079": {
+    "StudentNumber":24079,
+    "LastName":"Randle",
+    "FirstName":"Kiaris",
+    "Grade":"4th"
+  },
+  "24080": {
+    "StudentNumber":24080,
+    "LastName":"Robinson",
+    "FirstName":"Sedonia",
+    "Grade":"4th"
+  },
+  "24081": {
+    "StudentNumber":24081,
+    "LastName":"Thompson",
+    "FirstName":"Shira",
+    "Grade":"4th"
+  },
+  "24082": {
+    "StudentNumber":24082,
+    "LastName":"Torres River",
+    "FirstName":"Alexa",
+    "Grade":"4th"
+  },
+  "24083": {
+    "StudentNumber":24083,
+    "LastName":"Valles",
+    "FirstName":"Antonio",
+    "Grade":"4th"
+  },
+  "24084": {
+    "StudentNumber":24084,
+    "LastName":"Vargas",
+    "FirstName":"Adam",
+    "Grade":"4th"
+  },
+  "24085": {
+    "StudentNumber":24085,
+    "LastName":"Vazquez",
+    "FirstName":"Braulio",
+    "Grade":"4th"
+  },
+  "24086": {
+    "StudentNumber":24086,
+    "LastName":"Velasco",
+    "FirstName":"Sebastian",
+    "Grade":"4th"
+  },
+  "24087": {
+    "StudentNumber":24087,
+    "LastName":"Acuna",
+    "FirstName":"Lorena",
+    "Grade":"4th"
+  },
+  "24088": {
+    "StudentNumber":24088,
+    "LastName":"Almaguer",
+    "FirstName":"Nathan",
+    "Grade":"4th"
+  },
+  "24089": {
+    "StudentNumber":24089,
+    "LastName":"Bland",
+    "FirstName":"Xavier",
+    "Grade":"4th"
+  },
+  "24090": {
+    "StudentNumber":24090,
+    "LastName":"Castillo",
+    "FirstName":"Rolando",
+    "Grade":"4th"
+  },
+  "24091": {
+    "StudentNumber":24091,
+    "LastName":"DeLeon",
+    "FirstName":"Daniel",
+    "Grade":"4th"
+  },
+  "24092": {
+    "StudentNumber":24092,
+    "LastName":"Dilworth",
+    "FirstName":"Ce'Kia",
+    "Grade":"4th"
+  },
+  "24093": {
+    "StudentNumber":24093,
+    "LastName":"Edmond",
+    "FirstName":"Kevin",
+    "Grade":"4th"
+  },
+  "24094": {
+    "StudentNumber":24094,
+    "LastName":"Ferrera Ortega",
+    "FirstName":"Melanie",
+    "Grade":"4th"
+  },
+  "24095": {
+    "StudentNumber":24095,
+    "LastName":"Flores",
+    "FirstName":"Sara",
+    "Grade":"4th"
+  },
+  "24096": {
+    "StudentNumber":24096,
+    "LastName":"Foster",
+    "FirstName":"Dexter",
+    "Grade":"4th"
+  },
+  "24097": {
+    "StudentNumber":24097,
+    "LastName":"Gutierrez",
+    "FirstName":"Melvin",
+    "Grade":"4th"
+  },
+  "24098": {
+    "StudentNumber":24098,
+    "LastName":"Harmon",
+    "FirstName":"Jayla",
+    "Grade":"4th"
+  },
+  "24099": {
+    "StudentNumber":24099,
+    "LastName":"Hernandez",
+    "FirstName":"Josiah",
+    "Grade":"4th"
+  },
+  "24100": {
+    "StudentNumber":24100,
+    "LastName":"Lara",
+    "FirstName":"Erick",
+    "Grade":"4th"
+  },
+  "24101": {
+    "StudentNumber":24101,
+    "LastName":"Martinez",
+    "FirstName":"Cassandra",
+    "Grade":"4th"
+  },
+  "24102": {
+    "StudentNumber":24102,
+    "LastName":"Maya",
+    "FirstName":"Alexa",
+    "Grade":"4th"
+  },
+  "24103": {
+    "StudentNumber":24103,
+    "LastName":"Morelos",
+    "FirstName":"Sahirah",
+    "Grade":"4th"
+  },
+  "24104": {
+    "StudentNumber":24104,
+    "LastName":"Moreno",
+    "FirstName":"Angela",
+    "Grade":"4th"
+  },
+  "24105": {
+    "StudentNumber":24105,
+    "LastName":"Munguia",
+    "FirstName":"Ismael",
+    "Grade":"4th"
+  },
+  "24106": {
+    "StudentNumber":24106,
+    "LastName":"Palada",
+    "FirstName":"Hector",
+    "Grade":"4th"
+  },
+  "24107": {
+    "StudentNumber":24107,
+    "LastName":"Parker",
+    "FirstName":"Timiaya",
+    "Grade":"4th"
+  },
+  "24108": {
+    "StudentNumber":24108,
+    "LastName":"Perez",
+    "FirstName":"Giovanni",
+    "Grade":"4th"
+  },
+  "24109": {
+    "StudentNumber":24109,
+    "LastName":"Rodriguez",
+    "FirstName":"Gerardo",
+    "Grade":"4th"
+  },
+  "24110": {
+    "StudentNumber":24110,
+    "LastName":"Salazar",
+    "FirstName":"Cynthia",
+    "Grade":"4th"
+  },
+  "24111": {
+    "StudentNumber":24111,
+    "LastName":"Sanchez",
+    "FirstName":"Samantha",
+    "Grade":"4th"
+  },
+  "24112": {
+    "StudentNumber":24112,
+    "LastName":"Saravia",
+    "FirstName":"Eduardo",
+    "Grade":"4th"
+  },
+  "24113": {
+    "StudentNumber":24113,
+    "LastName":"Tyler",
+    "FirstName":"Keira",
+    "Grade":"4th"
+  },
+  "24114": {
+    "StudentNumber":24114,
+    "LastName":"Zamarron",
+    "FirstName":"Naima",
+    "Grade":"4th"
+  },
+  "24115": {
+    "StudentNumber":24115,
+    "LastName":"Zavala",
+    "FirstName":"Leonardo",
+    "Grade":"4th"
+  }
+}

@@ -1,0 +1,13 @@
+<h1>{{ vm.message }}</h1>
+<br/>
+
+
+<input type="text" 
+	ng-model='selectedStudent' 
+	bs-options="student.Label group by student.Grade for student in vm.students"  
+    data-watch-options="true"
+    data-min-length="2"
+	bs-typeahead>
+
+<button class="btn btn-success" 
+	ng-disabled="!selectedStudent">Call for Student</button>
